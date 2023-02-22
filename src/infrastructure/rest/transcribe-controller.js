@@ -8,9 +8,9 @@ router.post('/', async (req, res) => {
     
     const {streamId,twitchChannelId} = req.body;
     const transcriptStream = container.resolve('transcriptStream');
-    const response = await transcriptStream.execute({streamId,twitchChannelId});
+    await transcriptStream.execute({streamId,twitchChannelId});
 
-    res.json(response);
+    res.status(201).send();
   } catch (err) {
     console.log(err)
     return res.status(500).json({ message: 'Something wrong' });
