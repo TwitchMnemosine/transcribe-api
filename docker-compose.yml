@@ -1,0 +1,44 @@
+version: "3.7"
+
+services:
+  transcription-api:
+    build: .
+    depends_on:
+      - mongo
+      - redis
+    ports:
+      - 3000:3000
+    volumes:
+      - ./src:/usr/src/app
+    command: npm run dev
+    networks:
+      - mnemosine
+  mongo:
+    image: mongo
+    volumes:
+      - ./data/mongo:/data/db
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: admin
+    networks:
+      - mnemosine
+  redis:
+    image: 'bitnami/redis:latest'
+    ports:
+      - "6379:6379"
+    environment:
+      - ALLOW_EMPTY_PASSWORD=yes
+      - REDIS_PORT_NUMBER=6379
+    volumes:
+      - 'redis_data:/bitnami/redis/data'
+    networks:
+      - mnemosine
+networks:
+  mnemosine:
+    name: mnemosine
+    external: true
+volumes:
+  redis_data:
+    driver: local
