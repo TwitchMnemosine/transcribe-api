@@ -1,4 +1,4 @@
-const Transcript = require('../../domain/transcription/Transcription');
+const Transcript = require('../../domain/transcript/transcript');
 
 class TranscriptStream {
   constructor({idGenerator, transcriptRepository}) {
@@ -14,9 +14,9 @@ class TranscriptStream {
       twitchChannelId,
       twitchCannelName: 'sample',
       trasncriptions: [] 
-    })
-    await this.transcriptRepository.save(transcriptDomain)
-    return {streamId,twitchChannelId};
+    });
+
+    await this.transcriptRepository.save(transcriptDomain);
   }
 }
 

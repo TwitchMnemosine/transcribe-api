@@ -1,4 +1,4 @@
-const Transcription = require('../../../domain/transcription/Transcription');
+const Transcript = require('../../../domain/transcript/transcript');
 
 const transcriptDocumentParser = ({ muid }) => {
   return {
@@ -10,7 +10,7 @@ const transcriptDocumentParser = ({ muid }) => {
       trasncriptions,
     }) => {
       const id = (muid.from(_id)).toString();
-      return new Transcription({
+      return new Transcript({
         id,
         streamId,
         twitchChannelId,

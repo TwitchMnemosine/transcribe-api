@@ -1,4 +1,6 @@
-class Transcription {
+const InvalidTranscriptError = require('./errors/invalid-transcript-error.js');
+
+class Transcript {
   constructor({ id, streamId, twitchChannelId, twitchCannelName, trasncriptions }) {
     this.id = id;
     this.streamId = streamId;
@@ -9,7 +11,7 @@ class Transcription {
 
   set id(id) {
     if (!id) {
-      throw new InvalidTranscriptionError('Field id cannot be empty');
+      throw new InvalidTranscriptError('Field id cannot be empty');
     }
 
     this._id = id;
@@ -21,7 +23,7 @@ class Transcription {
 
   set streamId(streamId) {
     if (!streamId) {
-      throw new InvalidTranscriptionError('Field streamId cannot be empty');
+      throw new InvalidTranscriptError('Field streamId cannot be empty');
     }
 
     this._streamId = streamId;
@@ -33,7 +35,7 @@ class Transcription {
 
   set twitchChannelId(twitchChannelId) {
     if (!twitchChannelId) {
-      throw new InvalidTranscriptionError('Field twitchChannelId cannot be empty');
+      throw new InvalidTranscriptError('Field twitchChannelId cannot be empty');
     }
 
     this._twitchChannelId = twitchChannelId;
@@ -45,7 +47,7 @@ class Transcription {
 
   set twitchCannelName(twitchCannelName) {
     if (!twitchCannelName) {
-      throw new InvalidTranscriptionError('Field twitchCannelName cannot be empty');
+      throw new InvalidTranscriptError('Field twitchCannelName cannot be empty');
     }
 
     this._twitchCannelName = twitchCannelName;
@@ -57,7 +59,7 @@ class Transcription {
 
   set trasncriptions(trasncriptions) {
     if (!trasncriptions) {
-      throw new InvalidTranscriptionError('Field trasncriptions cannot be empty');
+      throw new InvalidTranscriptError('Field trasncriptions cannot be empty');
     }
 
     this._trasncriptions = trasncriptions;
@@ -69,4 +71,4 @@ class Transcription {
 
 }
 
-module.exports = Transcription;
+module.exports = Transcript;
