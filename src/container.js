@@ -8,7 +8,7 @@ const idGenerator = require('./domain/services/id-generator');
 const MongoTranscriptsRepository = require('./infrastructure/persistence/mongo/mongo-transcribe-repository');
 const transcriptDocumentParser = require('./infrastructure/persistence/mongo/transcript-document-parser');
 const redisSmq = require('redis-smq');
-const redisMessageBroker = require('./infrastructure/bus/redis-message-brooker');
+const redisMessageBroker = require('./infrastructure/bus/redis-message-broker');
 
 // application
 const TranscriptStream = require('./application/transcript-stream');
@@ -25,7 +25,7 @@ const infrastructure = {
   transcriptRepository: awilix.asClass(MongoTranscriptsRepository),
   transcriptDocumentParser: awilix.asFunction(transcriptDocumentParser),
   redisSmq: awilix.asValue(redisSmq),
-  redisMessageBroker: awilix.asClass(redisMessageBroker)
+  messageBroker: awilix.asClass(redisMessageBroker).singleton()
 }
 
 const application = {

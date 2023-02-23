@@ -1,14 +1,15 @@
 const Transcript = require('../../domain/transcript/transcript');
 
 class TranscriptStream {
-  constructor({idGenerator, transcriptRepository}) {
+  constructor({idGenerator, transcriptRepository, messageBroker}) {
     this.idGenerator = idGenerator;
     this.transcriptRepository = transcriptRepository;
+    this.messageBroker = messageBroker;
   }
 
   async execute({streamId, twitchChannelId}){
     const id = this.idGenerator.generate();
-    const transcriptDomain = new Transcript({
+    const transcriptDomain = Transcript.create({
       id,
       streamId,
       twitchChannelId,
@@ -17,6 +18,7 @@ class TranscriptStream {
     });
 
     await this.transcriptRepository.save(transcriptDomain);
+    await this.messageBroker.produce(transcriptDomain.getEvents());
   }
 }
 

@@ -1,12 +1,28 @@
+const AggregateRoot = require('../aggregate-root');
 const InvalidTranscriptError = require('./errors/invalid-transcript-error.js');
+const TranscriptCreatedEvent = require('./events/transcript-created-event');
 
-class Transcript {
+class Transcript extends AggregateRoot {
   constructor({ id, streamId, twitchChannelId, twitchCannelName, trasncriptions }) {
+    super();
     this.id = id;
     this.streamId = streamId;
     this.twitchChannelId = twitchChannelId;
     this.twitchCannelName = twitchCannelName;
     this.trasncriptions = trasncriptions;
+  }
+
+  static create({ id, streamId, twitchChannelId, twitchCannelName, trasncriptions }) {
+    const transcript = new Transcript({
+      id,
+      streamId,
+      twitchChannelId,
+      twitchCannelName,
+      trasncriptions
+    });
+
+    transcript.addEvent(new TranscriptCreatedEvent(transcript));
+    return transcript;
   }
 
   set id(id) {
@@ -69,6 +85,15 @@ class Transcript {
     return this._trasncriptions;
   }
 
+  toObject() {
+    return{
+      id: this.id,
+      streamId: this.streamId,
+      twitchChannelId: this.twitchChannelId,
+      twitchCannelName: this.twitchCannelName,
+      trasncriptions: this.trasncriptions
+    }
+  }
 }
 
 module.exports = Transcript;

@@ -6,9 +6,9 @@ class RedisMessageBroker {
   constructor({ redisSmq }) {
     this.redisSmq = redisSmq;
     this.config = {
-      namespace: 'ns1',
+      namespace: 'Mnemosine',
       redis: {
-        client: RedisClientName.IOREDIS,
+        client: RedisClientName.REDIS,
         options: {
           host: 'redis',
           port: 6379,
@@ -29,33 +29,53 @@ class RedisMessageBroker {
     this.consumer = promisifyAll(new this.redisSmq.Consumer(this.config));
   }
 
+  // TODO: Improve or delete.
+  pendingMessages(){
+    this.redisSmq.MessageManager.createInstance(this.config, (err, messageManager) => {
+      if (err) console.log(err);
+      else {
+        console.log(messageManager.pendingMessages.list('transcribe', 0, 100, (err, res) => {
+          console.log(res)
+        }))
+      }
+    })
+  }
 
-  async createQueue() {
+
+  async createQueue(queueTopic) {
     this._init();
     const queueManagerAsync = promisifyAll(
       await this.QueueManagerAsync.createInstanceAsync(this.config),
     );
     const queueAsync = promisifyAll(queueManagerAsync.queue);
-    const exists = await queueAsync.existsAsync('test_queue');
+    const exists = await queueAsync.existsAsync(queueTopic);
     if (!exists) {
-      await queueAsync.saveAsync('test_queue', EQueueType.LIFO_QUEUE);
+      await queueAsync.saveAsync(queueTopic, EQueueType.LIFO_QUEUE);
     }
   };
 
-  async consume() {
-    await this.consumer.consumeAsync('test_queue', (message, cb) => {
-      console.log('MESSAGE', message)
+  // TODO: Remove this if is not going to be used
+  async consume(queueTopic) {
+    await this.consumer.consumeAsync(queueTopic, (message, cb) => {
       cb();
     });
 
     await this.consumer.runAsync();
   };
 
-  async produce() {
+  async produce(domainEvents) {
     await this.producer.runAsync();
-    const msg = new this.redisSmq.Message();
-    msg.setBody({ event: "______________SAD__________________" }).setQueue('test_queue');
-    await this.producer.produceAsync(msg);
+
+    for (let domainEvent of domainEvents) {
+      const msg = new this.redisSmq.Message();
+      const payload = { ...domainEvent.name, ...domainEvent.domain };
+     
+      msg.setBody(payload)
+        .setQueue(domainEvent.topic)
+        .setRetryThreshold(100)
+        .setRetryDelay(3000);
+      await this.producer.produceAsync(msg);
+    }
   };
 
 }

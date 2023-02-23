@@ -11,10 +11,13 @@ const transcribeRoutes = require('./infrastructure/rest/transcribe-controller');
 
 app.use('/api/v1/transcribe', transcribeRoutes);
 
-const redisMessageBroker = container.resolve('redisMessageBroker');
-redisMessageBroker.createQueue()
-// redisMessageBroker.produce()
-// redisMessageBroker.consume()
+const {eventBus:{topicToPublish}} = require('./infrastructure/config');
+const messageBroker = container.resolve('messageBroker');
+messageBroker.createQueue(topicToPublish);
+
+// TODO: Remove this.
+// redisMessageBroker.produce({payload: {msg: 'hey'}, queueTopic: 'transcribe'})
+// messageBroker.consume('transcribe')
 
 app.listen(port, () => {
   console.log(`Listening on port ${port}`);
