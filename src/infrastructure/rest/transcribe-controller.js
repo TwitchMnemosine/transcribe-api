@@ -3,12 +3,15 @@ const router = express.Router();
 
 const container = require('../../container');
 
+const TranscriptStreamCommand = require('../../application/transcript-stream/transcript-stream-command');
+
 router.post('/', async (req, res) => {
   try {
     
-    const {streamId,twitchChannelId} = req.body;
+    const {streamId} = req.body;
+    const transcriptStreamCommand = new TranscriptStreamCommand({streamId})
     const transcriptStream = container.resolve('transcriptStream');
-    await transcriptStream.execute({streamId,twitchChannelId});
+    await transcriptStream.execute(transcriptStreamCommand);
 
     res.status(201).send();
   } catch (err) {

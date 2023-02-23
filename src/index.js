@@ -8,8 +8,10 @@ const container = require('./container');
 app.use(express.json());
 app.use(helmet());
 const transcribeRoutes = require('./infrastructure/rest/transcribe-controller');
+const streamRoutes = require('./infrastructure/rest/streams-controller');
 
 app.use('/api/v1/transcribe', transcribeRoutes);
+app.use('/api/v1/streams', streamRoutes);
 
 const {eventBus:{topicToPublish}} = require('./infrastructure/config');
 const messageBroker = container.resolve('messageBroker');

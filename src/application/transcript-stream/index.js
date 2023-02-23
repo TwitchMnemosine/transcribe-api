@@ -7,12 +7,12 @@ class TranscriptStream {
     this.messageBroker = messageBroker;
   }
 
-  async execute({streamId, twitchChannelId}){
+  async execute({streamId}){
     const id = this.idGenerator.generate();
     const transcriptDomain = Transcript.create({
       id,
       streamId,
-      twitchChannelId,
+      twitchChannelId: 'twitchChannelId',
       twitchCannelName: 'sample',
       trasncriptions: [] 
     });

@@ -9,9 +9,12 @@ const MongoTranscriptsRepository = require('./infrastructure/persistence/mongo/m
 const transcriptDocumentParser = require('./infrastructure/persistence/mongo/transcript-document-parser');
 const redisSmq = require('redis-smq');
 const redisMessageBroker = require('./infrastructure/bus/redis-message-broker');
+const axios = require('axios');
+const twitchService = require('./infrastructure/services/twitch/twitch-service');
 
 // application
 const TranscriptStream = require('./application/transcript-stream');
+const GetStreams = require('./application/get-streams/');
 
 const container = awilix.createContainer({
   injectionMode: awilix.InjectionMode.PROXY,
@@ -25,11 +28,14 @@ const infrastructure = {
   transcriptRepository: awilix.asClass(MongoTranscriptsRepository),
   transcriptDocumentParser: awilix.asFunction(transcriptDocumentParser),
   redisSmq: awilix.asValue(redisSmq),
-  messageBroker: awilix.asClass(redisMessageBroker).singleton()
+  messageBroker: awilix.asClass(redisMessageBroker).singleton(),
+  httpClient: awilix.asValue(axios),
+  twitchService: awilix.asClass(twitchService),
 }
 
 const application = {
   transcriptStream: awilix.asClass(TranscriptStream),
+  getStreams: awilix.asClass(GetStreams),
 }
 
 container.register({
