@@ -1,8 +1,7 @@
-class TranscriptCommandCommand {
-  constructor({streamId,twitchChannelId}) {
+class TranscriptStreamCommand {
+  constructor({streamId}) {
     this.streamId = streamId;
-    this.twitchChannelId = twitchChannelId;
   }
 }
 
-module.exports = TranscriptCommandCommand;
+module.exports = TranscriptStreamCommand;
