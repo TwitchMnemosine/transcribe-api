@@ -7,6 +7,9 @@ const run = {
   server: {
     port: process.env.PORT || 3000,
   },
+  eventBus: {
+    topicToPublish: process.env.TRANSCRIBE_TOPIC_TO_PUBLISH || 'transcribe'
+  },
   mongo: {
     mongoConnectionUri,
     mongoTimeout,
@@ -17,6 +20,9 @@ const run = {
 const test = {
   server: {
     port: 3000,
+  },
+  eventBus: {
+    topicToPublish: 'transcribe',
   },
   mongo: {
     mongoConnectionUri: null,
