@@ -21,6 +21,18 @@ class TwitchService {
 
     return response.data;
   }
+
+  async getStreamById(streamId) {
+    const {access_token} = await this._generateToken();
+    const response = await this.httpClient.get(`${apiBaseUrl}/videos?id=${streamId}`,{
+      headers: {
+        'Client-id': clientIdTwitch,
+        'Authorization': `Bearer ${access_token}`,
+      }
+    });
+
+    return response.data;
+  }
 }
 
 module.exports = TwitchService;

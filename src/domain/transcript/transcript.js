@@ -3,22 +3,26 @@ const InvalidTranscriptError = require('./errors/invalid-transcript-error.js');
 const TranscriptCreatedEvent = require('./events/transcript-created-event');
 
 class Transcript extends AggregateRoot {
-  constructor({ id, streamId, twitchChannelId, twitchCannelName, trasncriptions }) {
+  constructor({ id, streamId, twitchChannelId, twitchCannelName, status, duration, transcriptions }) {
     super();
     this.id = id;
     this.streamId = streamId;
     this.twitchChannelId = twitchChannelId;
     this.twitchCannelName = twitchCannelName;
-    this.trasncriptions = trasncriptions;
+    this.status = status;
+    this.duration = duration;
+    this.transcriptions = transcriptions;
   }
 
-  static create({ id, streamId, twitchChannelId, twitchCannelName, trasncriptions }) {
+  static create({ id, streamId, twitchChannelId, twitchCannelName, status, duration, transcriptions }) {
     const transcript = new Transcript({
       id,
       streamId,
       twitchChannelId,
       twitchCannelName,
-      trasncriptions
+      status,
+      duration,
+      transcriptions
     });
 
     transcript.addEvent(new TranscriptCreatedEvent(transcript));
@@ -73,25 +77,51 @@ class Transcript extends AggregateRoot {
     return this._twitchCannelName;
   }
 
-  set trasncriptions(trasncriptions) {
-    if (!trasncriptions) {
-      throw new InvalidTranscriptError('Field trasncriptions cannot be empty');
+  set status(status) {
+    if (!status) {
+      throw new InvalidTranscriptError('Field status cannot be empty');
     }
 
-    this._trasncriptions = trasncriptions;
+    this._status = status;
   }
 
-  get trasncriptions() {
-    return this._trasncriptions;
+  get status() {
+    return this._status;
+  }
+
+  set duration(duration) {
+    if (!duration) {
+      throw new InvalidTranscriptError('Field duration cannot be empty');
+    }
+
+    this._duration = duration;
+  }
+
+  get duration() {
+    return this._duration;
+  }
+
+  set transcriptions(transcriptions) {
+    if (!transcriptions) {
+      throw new InvalidTranscriptError('Field transcriptions cannot be empty');
+    }
+
+    this._transcriptions = transcriptions;
+  }
+
+  get transcriptions() {
+    return this._transcriptions;
   }
 
   toObject() {
-    return{
+    return {
       id: this.id,
       streamId: this.streamId,
       twitchChannelId: this.twitchChannelId,
       twitchCannelName: this.twitchCannelName,
-      trasncriptions: this.trasncriptions
+      status: this.status,
+      duration: this.duration,
+      transcriptions: this.transcriptions
     }
   }
 }

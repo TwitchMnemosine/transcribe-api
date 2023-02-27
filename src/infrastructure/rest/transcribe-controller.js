@@ -7,7 +7,6 @@ const TranscriptStreamCommand = require('../../application/transcript-stream/tra
 
 router.post('/', async (req, res) => {
   try {
-    
     const {streamId} = req.body;
     const transcriptStreamCommand = new TranscriptStreamCommand({streamId})
     const transcriptStream = container.resolve('transcriptStream');
