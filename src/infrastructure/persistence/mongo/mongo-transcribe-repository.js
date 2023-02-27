@@ -17,6 +17,16 @@ class MongoTranscriptRepository {
     }
   }
 
+  async findByStreamId(streamId) {
+    const db = await this.mongoDbHandler.getInstance();
+    try {
+      const transcriptDomain = await db.collection(TRANSCRIPTS).findOne({streamId});
+      return transcriptDomain ? this.transcriptDocumentParser.toDomain(transcriptDomain) : null;
+    } catch (err) {
+      throw new Error(err);
+    }
+  }
+
   async save(transcript) {
     const db = await this.mongoDbHandler.getInstance();
     try {

@@ -5,6 +5,7 @@ const { promisifyAll } = require('bluebird');
 class RedisMessageBroker {
   constructor({ redisSmq }) {
     this.redisSmq = redisSmq;
+    // TODO: Move this to config file
     this.config = {
       namespace: 'Mnemosine',
       redis: {
@@ -68,12 +69,11 @@ class RedisMessageBroker {
 
     for (let domainEvent of domainEvents) {
       const msg = new this.redisSmq.Message();
-      const payload = { ...domainEvent.name, ...domainEvent.domain };
+      const payload = { name: domainEvent.name, ...domainEvent.domain };
      
       msg.setBody(payload)
         .setQueue(domainEvent.topic)
-        .setRetryThreshold(100)
-        .setRetryDelay(3000);
+        .setRetryThreshold(3)
       await this.producer.produceAsync(msg);
     }
   };

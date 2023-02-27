@@ -7,7 +7,9 @@ const transcriptDocumentParser = ({ muid }) => {
       streamId,
       twitchChannelId,
       twitchCannelName,
-      trasncriptions,
+      status,
+      duration,
+      transcriptions,
     }) => {
       const id = (muid.from(_id)).toString();
       return new Transcript({
@@ -15,7 +17,9 @@ const transcriptDocumentParser = ({ muid }) => {
         streamId,
         twitchChannelId,
         twitchCannelName,
-        trasncriptions,
+        status,
+        duration,
+        transcriptions,
       })
     },
     toDocument: ({
@@ -23,7 +27,9 @@ const transcriptDocumentParser = ({ muid }) => {
       streamId,
       twitchChannelId,
       twitchCannelName,
-      trasncriptions,
+      status,
+      duration,
+      transcriptions,
     }) => {
       const _id = muid.from(id);
       return {
@@ -31,7 +37,9 @@ const transcriptDocumentParser = ({ muid }) => {
         streamId,
         twitchChannelId,
         twitchCannelName,
-        trasncriptions,
+        status,
+        duration,
+        transcriptions,
       }
     }
   }
