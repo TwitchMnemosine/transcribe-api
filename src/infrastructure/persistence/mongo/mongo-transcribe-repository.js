@@ -23,6 +23,7 @@ class MongoTranscriptRepository {
       const transcriptDomain = await db.collection(TRANSCRIPTS).findOne({streamId});
       return transcriptDomain ? this.transcriptDocumentParser.toDomain(transcriptDomain) : null;
     } catch (err) {
+      console.log(err)
       throw new Error(err);
     }
   }

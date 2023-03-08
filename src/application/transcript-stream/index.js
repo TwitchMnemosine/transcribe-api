@@ -12,7 +12,7 @@ class TranscriptStream {
   async execute({ streamId }) {
     const stream = await this.twitchService.getStreamById(streamId);
     console.log(stream)
-    const { user_id, user_login, duration } = stream.data[0];
+    const { user_id, user_login, duration, title } = stream.data[0];
 
     const id = this.idGenerator.generate();
     const transcriptDomain = Transcript.create({
@@ -20,6 +20,7 @@ class TranscriptStream {
       streamId,
       twitchChannelId: user_id,
       twitchCannelName: user_login,
+      streamName: title,
       status: LOADING,
       duration: this._extractDuration(duration),
       transcriptions: []

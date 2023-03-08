@@ -3,10 +3,11 @@ const InvalidTranscriptError = require('./errors/invalid-transcript-error.js');
 const TranscriptCreatedEvent = require('./events/transcript-created-event');
 
 class Transcript extends AggregateRoot {
-  constructor({ id, streamId, twitchChannelId, twitchCannelName, status, duration, transcriptions }) {
+  constructor({ id, streamId, streamName, twitchChannelId, twitchCannelName, status, duration, transcriptions }) {
     super();
     this.id = id;
     this.streamId = streamId;
+    this.streamName = streamName;
     this.twitchChannelId = twitchChannelId;
     this.twitchCannelName = twitchCannelName;
     this.status = status;
@@ -14,10 +15,11 @@ class Transcript extends AggregateRoot {
     this.transcriptions = transcriptions;
   }
 
-  static create({ id, streamId, twitchChannelId, twitchCannelName, status, duration, transcriptions }) {
+  static create({ id, streamId, streamName, twitchChannelId, twitchCannelName, status, duration, transcriptions }) {
     const transcript = new Transcript({
       id,
       streamId,
+      streamName,
       twitchChannelId,
       twitchCannelName,
       status,
@@ -51,6 +53,18 @@ class Transcript extends AggregateRoot {
 
   get streamId() {
     return this._streamId;
+  }
+
+  set streamName(streamName) {
+    if (!streamName) {
+      throw new InvalidTranscriptError('Field streamName cannot be empty');
+    }
+
+    this._streamName = streamName;
+  }
+
+  get streamName() {
+    return this._streamName;
   }
 
   set twitchChannelId(twitchChannelId) {
@@ -117,6 +131,7 @@ class Transcript extends AggregateRoot {
     return {
       id: this.id,
       streamId: this.streamId,
+      streamName: this.streamName,
       twitchChannelId: this.twitchChannelId,
       twitchCannelName: this.twitchCannelName,
       status: this.status,

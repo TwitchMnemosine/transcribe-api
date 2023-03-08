@@ -15,6 +15,7 @@ const twitchService = require('./infrastructure/services/twitch/twitch-service')
 // application
 const TranscriptStream = require('./application/transcript-stream');
 const GetStreams = require('./application/get-streams/');
+const GetTranscript = require('./application/get-transcript/');
 
 const container = awilix.createContainer({
   injectionMode: awilix.InjectionMode.PROXY,
@@ -36,6 +37,7 @@ const infrastructure = {
 const application = {
   transcriptStream: awilix.asClass(TranscriptStream),
   getStreams: awilix.asClass(GetStreams),
+  getTranscript: awilix.asClass(GetTranscript),
 }
 
 container.register({
