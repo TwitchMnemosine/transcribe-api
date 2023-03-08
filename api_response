@@ -1,0 +1,2374 @@
+{
+	"id": "ba8d26de-76eb-4ad2-83cb-0f3e86882655",
+	"streamId": "822174211",
+	"twitchChannelId": "148382191",
+	"twitchCannelName": "girlazo",
+	"status": "finished",
+	"duration": 3954,
+	"transcriptions": [
+		{
+			"start": 0.03,
+			"end": 0.93,
+			"text": "Un saludo para todos",
+			"language": "es"
+		},
+		{
+			"start": 1.14,
+			"end": 7.56,
+			"text": "Vale, vale. Ahora ya está, ahora sí que te escucharán. A ver. ¿Qué pasa? ¿Cómo estamos? ¿Todo bien?",
+			"language": "es"
+		},
+		{
+			"start": 7.74,
+			"end": 25.74,
+			"text": "Hoy ha salido cositas de sueldo. Bueno, estamos hablando de consultoras al principio, que tú creo que no has trabajado para ninguna consultora, ¿no? No, tío, yo las odio también. Claro, es que... Te voy a soltar una opinión personal que tengo sobre el tema. Es personal, y es personal",
+			"language": "es"
+		},
+		{
+			"start": 25.74,
+			"end": 29.19,
+			"text": "¿Sobre qué? Sobre el tema de los sueldos",
+			"language": "es"
+		},
+		{
+			"start": 29.25,
+			"end": 44.67,
+			"text": "Creo que hoy en día, y más estoy hablando 100% en España, también teniendo en cuenta el contexto en el que yo trabajo en Mallorca, es, ya o no, tecnológicamente pues tienen suerte, hay bastantes empresas tecnológicas y no es como en Menorca, que cuando estuve en Menorca no había ni Dios, ¿vale?",
+			"language": "es"
+		},
+		{
+			"start": 44.79,
+			"end": 61.95,
+			"text": "Entonces, en ese contexto donde vives en un sitio donde realmente hay trabajo tecnológico, si vives en un pueblo de la Andalucía perdida, pues estás un poco jodido, pero bueno, también hay que ser un poquito pillín. ¿Realmente necesitas títulos para tener un buen sueldo? Yo creo que",
+			"language": "es"
+		},
+		{
+			"start": 62.34,
+			"end": 80.34,
+			"text": "Obviamente es un handicap. Si tienes un título es mejor de cara si no tienes experiencia que si no lo tienes. Pero todo se demuestra en la prueba técnica. Tú puedes hacer pruebas técnicas. Yo no tengo un título. Yo tengo la ESO, ¿sabes? Y las pruebas técnicas, por suerte, me han ido bien. Vale. Ahora hablamos de pruebas técnicas",
+			"language": "es"
+		},
+		{
+			"start": 80.34,
+			"end": 98.34,
+			"text": "Yo creo que una persona que hace una prueba técnica y la saca con decencia debería estar cobrando más de 20k en el sector del desarrollo web. Obviamente hay que ser un poco pillín. Si eres una agencia, bueno, es que si tú buscas cobrar 20k no te vas a ir a una agencia, no te vas a ir a una startup que recién empieza. Vas a irte a empresas medias que",
+			"language": "es"
+		},
+		{
+			"start": 98.34,
+			"end": 115.71,
+			"text": "no multinacionales, porque eres un número y les das igual, pero lo suyo es irte a México. Pero ¿qué es una empresa? ¿Qué es una startup? Porque, por ejemplo, tú y yo tenemos en mente que tenemos unos correos cruzados. ¿Eso lo consideramos una startup o no? No, para mí no",
+			"language": "es"
+		},
+		{
+			"start": 116.37,
+			"end": 129.36,
+			"text": "Realmente, o sea, startup, ¿no? Porque ya ha validado su modelo de negocio, ya tiene capitalización suficiente como para.",
+			"language": "es"
+		},
+		{
+			"start": 129.45,
+			"end": 147.45,
+			"text": "Entonces sí, cualquier empresa… Realmente da igual. Estamos hablando de que ya tienen una ronda de más de… Sí, mi concepto de startup es que tienen una startup que levanta 300 000 euros y tiene de vida seis meses. Con eso te va pagando lo que puede. Paga marketing, sueldo, etc",
+			"language": "es"
+		},
+		{
+			"start": 147.45,
+			"end": 151.74,
+			"text": "sus sueldos y va haciendo lo que puede. No esperes ganar un salario alto",
+			"language": "es"
+		},
+		{
+			"start": 151.8,
+			"end": 155.07,
+			"text": "Mira, como yo conozco... Hay muchas que... Sí. Dime, dime, dime",
+			"language": "es"
+		},
+		{
+			"start": 155.1,
+			"end": 173.1,
+			"text": "No, es que hay muchos casos en Madrid y tal y empresas como 21 Buttons que levantaron rondas millonarias, empezaron a contratar a lo loco Sueldo de 60k Pero esto también es mucha suerte, eh, lo de 21 Buttons y todas estas, es un poco de.",
+			"language": "es"
+		},
+		{
+			"start": 173.1,
+			"end": 191.1,
+			"text": "Pero oye, llevamos mucho tiempo ahorrado, vamos a meter dinero ahí, pero sin pensar nada. Es decir, nosotros nos dedicamos a vender ropa, compramos mucha ropa, queremos venderla en segunda mano, montamos una app. Porque eso fue una coña. Eso no es 21 Buttons creo, eh. Eso es Chick-Fil-A",
+			"language": "es"
+		},
+		{
+			"start": 191.1,
+			"end": 195.27,
+			"text": "Ah, es verdad, es Chick-Fi, coño, la estoy confundiendo, es verdad, es verdad, es verdad",
+			"language": "es"
+		},
+		{
+			"start": 195.33,
+			"end": 213.33,
+			"text": "21 Buttons creo que es un modelo que se importó, levantó ronda de financiación, hizo media for equity con televisiones y empezó la fiebre de las startups que levantan millones de dólares. Me molan más los anuncios de Chick-fil-A. También te digo, me molaban. La historia es más molona. Mira, tú has hecho pruebas técnicas de",
+			"language": "es"
+		},
+		{
+			"start": 213.33,
+			"end": 231.33,
+			"text": "front. Yo sé muchas personas que tengo en el chat y en general que tienen el concepto de las pruebas técnicas que se hacen en España como las pruebas técnicas más estadounidenses en plan oye y aquí tú meterías un quicksort o un mergesort implementado en España",
+			"language": "es"
+		},
+		{
+			"start": 231.33,
+			"end": 240.42,
+			"text": "menta o una cola de tal no sé qué entonces como muchos tienen en mente eso cómo es una prueba técnica de un front o como mismo como han sido las que tú has hecho",
+			"language": "es"
+		},
+		{
+			"start": 240.42,
+			"end": 248.55,
+			"text": "Vale, yo te voy a decir, realmente, pruebas técnicas he hecho cuatro. La de IKEA, que era para maquetador, fue la más simple, era maquetar",
+			"language": "es"
+		},
+		{
+			"start": 248.58,
+			"end": 266.58,
+			"text": "Tenías X tiempo para hacer una maquetación. Entré como maquetador y lo bordé, porque es lo que más se me da bien. La más chunga, para que no se haga largo, la más chunga que he hecho, la más difícil, fue la que hice para mi anterior empresa, Omni Access. Y simplemente me llevaron a una sala de reuniones. Antes esto era un par de meses",
+			"language": "es"
+		},
+		{
+			"start": 266.58,
+			"end": 269.82,
+			"text": "un mes antes, pre-COVID, ¿vale? Me sentaron",
+			"language": "es"
+		},
+		{
+			"start": 270.42,
+			"end": 288.42,
+			"text": "El equipo de desarrollo, bueno, dos frontends y dos backs y el project manager en una sala de reuniones, todos trabajando. Y ellos estarían hablando, era un truco como de distracción, ellos estarán hablando de cosas, hablando de tal, y te ponen un ejercicio. El ejercicio en este caso era hacer una query para solicitar un producto",
+			"language": "es"
+		},
+		{
+			"start": 288.42,
+			"end": 305.76,
+			"text": "de",
+			"language": "es"
+		},
+		{
+			"start": 306.27,
+			"end": 324.27,
+			"text": "Entonces, bajo mi punto de vista era difícil porque había algunos problemas que no controlaba y yo elegí Bue. Y yo en ese entonces Bue lo tenía un poquito más poco desarrollado, pero bueno, me salió bien y coño, aprendí un montón. Lo bueno de entrar es que",
+			"language": "es"
+		},
+		{
+			"start": 324.27,
+			"end": 329.34,
+			"text": "es que aprendes un montón. Y ya te digo, entre haciendo una prueba mediocre",
+			"language": "es"
+		},
+		{
+			"start": 329.52,
+			"end": 333.21,
+			"text": "Ya puedo hablar del sueldo, entré cobrando 25, 26K",
+			"language": "es"
+		},
+		{
+			"start": 333.57,
+			"end": 342.42,
+			"text": "con bonus anual, con seguro médico. En Mallorca",
+			"language": "es"
+		},
+		{
+			"start": 342.57,
+			"end": 360.57,
+			"text": "Ya, pero también es 2017, ¿no has dicho? No, esto de OmniAxes fue este año. Entré en febrero. Ah, este año, vale. ¿Y este año cuánto has dicho que has entrado de sueldo? Entré, siendo junior de Buwe con una prueba muy mediocre, 25 o 26 debería estar",
+			"language": "es"
+		},
+		{
+			"start": 360.57,
+			"end": 378.57,
+			"text": "No sé, es que el bruto se me va, pero cobraba unos 1850 netos al mes. Vale, y ¿has mirado alguna empresa más? Mira, yo... Vale, ¿tengo cámara? ¿Quieres que pongamos cámara? ¿Así hacemos la llamada con el de esto o tú no puedes? Yo tengo cámara. Vale, pues espérate, hago aquí un.",
+			"language": "es"
+		},
+		{
+			"start": 378.57,
+			"end": 381.39,
+			"text": "el armario",
+			"language": "es"
+		},
+		{
+			"start": 381.39,
+			"end": 384.09,
+			"text": "Vale, joder, pues eso es una mierda, eh",
+			"language": "es"
+		},
+		{
+			"start": 384.27,
+			"end": 386.94,
+			"text": "A ver, saca la ropa del armario",
+			"language": "es"
+		},
+		{
+			"start": 387.21,
+			"end": 389.31,
+			"text": "Trollkine Camera, vale",
+			"language": "es"
+		},
+		{
+			"start": 389.61,
+			"end": 393.21,
+			"text": "A mi me estarás viendo? No? Se ve en gris",
+			"language": "es"
+		},
+		{
+			"start": 393.84,
+			"end": 400.26,
+			"text": "Yo no sé cómo funciona. Te veo gris, sí. Vale, ves gris. Yo te veo a ti",
+			"language": "es"
+		},
+		{
+			"start": 400.26,
+			"end": 404.61,
+			"text": "Pero creo que tú tienes un problema a la hora de verme a mi, así que mira voy a hacer una cosa, voy a",
+			"language": "es"
+		},
+		{
+			"start": 404.61,
+			"end": 410.1,
+			"text": "De momento seguimos hablando, pero voy a hacerme una.",
+			"language": "es"
+		},
+		{
+			"start": 410.46,
+			"end": 414.57,
+			"text": "y recorto tu cara y después pongo la mía y las pongo así al lado",
+			"language": "es"
+		},
+		{
+			"start": 414.99,
+			"end": 416.43,
+			"text": "rápidamente",
+			"language": "es"
+		},
+		{
+			"start": 416.85,
+			"end": 422.37,
+			"text": "Bueno, entonces yo también te los voy a ir haciendo, suelto un pitch de los sueltos, ¿vale? A mí personalmente",
+			"language": "es"
+		},
+		{
+			"start": 423.15,
+			"end": 427.2,
+			"text": "Creo que cualquier persona que tenga pasión",
+			"language": "es"
+		},
+		{
+			"start": 427.23,
+			"end": 429.57,
+			"text": "o curiosidad por el desarrollo?",
+			"language": "es"
+		},
+		{
+			"start": 430.08,
+			"end": 442.83,
+			"text": "Y no se quede en lo superficial, tiene que estar cobrando más de 20k. Es que 20k para una empresa es poco. Es decir, tú como junior, ahora no entrarías.",
+			"language": "es"
+		},
+		{
+			"start": 443.13,
+			"end": 461.13,
+			"text": "No, yo es que ahora no entraría a ningún lado por menos de 24, entrando junior. Vale, ¿y ahora estás haciendo algo freelance que tenga que ver con el desarrollo? Sí. ¿Y cuánto puedes estar o cuánto crees que puedes estar...? Esto no sé si lo puedo decir, tío. Ah, vale, vale. Te voy a decir que no menos que mi anterior trabajo, que hoy",
+			"language": "es"
+		},
+		{
+			"start": 461.13,
+			"end": 462.09,
+			"text": "Báñate",
+			"language": "es"
+		},
+		{
+			"start": 462.39,
+			"end": 476.43,
+			"text": "Pero es un cliente, no es desarrollo. Tienes un cliente, pero aún así es una vertiente tuya de... De desarrollo, sí. De desarrollo, sí, eso te voy a decir. Pero de freelance, perdón. De freelance",
+			"language": "es"
+		},
+		{
+			"start": 476.67,
+			"end": 492.24,
+			"text": "Sí, sí, sí. Tú lo que tienes ahora es freelance. Vale, entonces mira, me estoy montando por aquí la escena, a ver si me quedas top ahí. Pero vaya, también entiendo a mucha gente que sale del estudio, no ha tenido ninguna experiencia laboral. ¿Puedo pararse un poquito? La suciedad. Ahí está. No ha tenido una experiencia laboral",
+			"language": "es"
+		},
+		{
+			"start": 492.39,
+			"end": 498.75,
+			"text": "como desarrollador tiene incertidumbre, no sabe cómo es trabajar y acepta lo que sea con tal de pillar experiencia",
+			"language": "es"
+		},
+		{
+			"start": 499.35,
+			"end": 517.35,
+			"text": "Por eso hay gente y empresas que les va bien esto. Hay trabajos que son fáciles, tío. Y es un trabajo sencillo y no necesitan a mucha gente top para manejar algunos proyectos. Entonces te meten ahí. Lo bueno que si entras con poca expectativa, pues, hostia, me veo en el directo",
+			"language": "es"
+		},
+		{
+			"start": 517.35,
+			"end": 522.48,
+			"text": "Todo mejora, pero obviamente cuando ya has trabajado en un par de sitios pues",
+			"language": "es"
+		},
+		{
+			"start": 523.2,
+			"end": 524.28,
+			"text": "¿Sabes?",
+			"language": "es"
+		},
+		{
+			"start": 524.73,
+			"end": 526.68,
+			"text": "porque",
+			"language": "es"
+		},
+		{
+			"start": 526.74,
+			"end": 544.08,
+			"text": "Que vaya cámara que tienes, que envidia tío, joder. De estudio de código, ¿qué es lo que tienes? A nivel, espérate, a nivel reglado oficial España. Me ponen al revés, me ponen así, parece que estoy hablando contigo. No, espérate, espérate, lo soluciono yo",
+			"language": "es"
+		},
+		{
+			"start": 544.35,
+			"end": 545.82,
+			"text": "No te muevas, no te muevas",
+			"language": "es"
+		},
+		{
+			"start": 546.21,
+			"end": 548.34,
+			"text": "¿No, Mo? Ya está",
+			"language": "es"
+		},
+		{
+			"start": 548.79,
+			"end": 566.79,
+			"text": "Vale, mira, voy a poner el chat por aquí. Vale, ahora sí que leemos el chat. Voy a hacer el chat ya que tenéis a uno que ha hecho más frontend y a otro que ha hecho más backend software por aquí. Y podéis preguntar todo lo que queráis. Dejadme un segundito que ponga como mínimo un fondo ni que sea.",
+			"language": "es"
+		},
+		{
+			"start": 566.79,
+			"end": 568.32,
+			"text": "voy a poner el chat",
+			"language": "es"
+		},
+		{
+			"start": 569.49,
+			"end": 571.56,
+			"text": "Vale, perfecto. Pongo el chat",
+			"language": "es"
+		},
+		{
+			"start": 571.59,
+			"end": 585.78,
+			"text": "Pongo por aquí abajo, esto por aquí arriba, esto por aquí arriba y pongo el primer fondo que encuentre. Ahí dice 1, pero el problema es que si las empresas ofrecen 16 y no te queda más opción de aceptar el trabajo, ¿qué haces? Obviamente, si",
+			"language": "es"
+		},
+		{
+			"start": 585.96,
+			"end": 603.96,
+			"text": "Obviamente la necesidad es un grado a valorar. Si no tienes otra cosa y, joder, si te dan a elegir entre el sueldo este que se da ahora en España, que no sé cuánto es el sueldo mínimo viable porque estás en una situación complicada, y hoy en día te nace una oferta de 18k que son 1.100 euros netos, ¿vale?",
+			"language": "es"
+		},
+		{
+			"start": 603.96,
+			"end": 609.54,
+			"text": "Pues siendo inteligente aceptas eso, si no tienes otra cosa. Obviamente",
+			"language": "es"
+		},
+		{
+			"start": 609.6,
+			"end": 627.6,
+			"text": "Yo, personalmente, sabiendo que puedes escalar y si tu objetivo es escalar en tema de pasta, mejora como programador o si ya te consideras bueno, cotillea y no te quedes parado, busca trabajo. ¿Ves? Yo creo que hace falta una plataforma donde los trabajadores estén escuchando las ofertas que quieren",
+			"language": "es"
+		},
+		{
+			"start": 627.6,
+			"end": 628.35,
+			"text": "¡Adiós!",
+			"language": "es"
+		},
+		{
+			"start": 628.38,
+			"end": 638.7,
+			"text": "de manera anónima y que puedan ser anónimos. Uff, es que hay como de sindicatos y de mierdas y de todo que va a empezar a ser una lluvia de mierda. Ah, no, puede ser",
+			"language": "es"
+		},
+		{
+			"start": 638.79,
+			"end": 656.79,
+			"text": "Tenía algo en mente ahora que no recuerdo el qué, bueno, da igual, voy a seguir leyendo por aquí. Dice... preguntas así. ¿Mallorca tiene buen ancho de banda? Joder, yo tengo 600 megas simétricas. Sí, claro, llega un cable directo, es decir, tenéis un cable directo",
+			"language": "es"
+		},
+		{
+			"start": 656.79,
+			"end": 669.6,
+			"text": "tenéis el cable de internet intercontinental más gordo para menos personas. Creo que realmente tenéis el mejor internet del mundo, literal. Hombre, escucha, los alemanes que vienen de vacaciones tienen que pagar algo",
+			"language": "es"
+		},
+		{
+			"start": 670.38,
+			"end": 678.12,
+			"text": "A ver, entonces.",
+			"language": "es"
+		},
+		{
+			"start": 678.3,
+			"end": 690.18,
+			"text": "Hace mucho que no lo veo programar, pero yo lo conocí hace 3-4 años. Y la sensación que recuerdo de él es que era un friki de la programación, una máquina, estuvo trabajando en dos empresas de Mallorca",
+			"language": "es"
+		},
+		{
+			"start": 690.48,
+			"end": 694.2,
+			"text": "¡Cobrando! Creo que entrando Junior, ¿cobrando bien?",
+			"language": "es"
+		},
+		{
+			"start": 694.32,
+			"end": 712.32,
+			"text": "y se fue a una empresa a Madrid, creo que es un buen chico para hablar también con él, eh? Es decir, apuntarlo ahí porque es muy interesante. Mira, es que aquí tenemos varias cosas. Una de las cosas que yo... Claro, es que esto es algo que no puede llegar a todo el mundo, y menos si están llegando a la primera posición. Pero yo una de las cosas que siempre he intentado ponerme en cuenta es",
+			"language": "es"
+		},
+		{
+			"start": 712.32,
+			"end": 730.32,
+			"text": "un foco ha sido en.",
+			"language": "es"
+		},
+		{
+			"start": 730.32,
+			"end": 731.34,
+			"text": "y el",
+			"language": "es"
+		},
+		{
+			"start": 731.88,
+			"end": 749.88,
+			"text": "teniendo en cuenta que te estoy diciendo que para mí es una de las... es una de mis referencias tanto en... modo de vida, ahora veremos por qué, y en código. Y él, una de las cosas que tiene por ahí es... dice que me baje un poco el micro, me bajo un poco el micro... Una de las cosas que... que tienen.",
+			"language": "es"
+		},
+		{
+			"start": 749.88,
+			"end": 757.29,
+			"text": "mejor lo escuchan un poco así. Una de las cosas que hace este hombre es que él no trabaja de nada de código",
+			"language": "es"
+		},
+		{
+			"start": 757.41,
+			"end": 760.74,
+			"text": "Él es conductor de autobús escolar",
+			"language": "es"
+		},
+		{
+			"start": 761.55,
+			"end": 763.23,
+			"text": "Y",
+			"language": "es"
+		},
+		{
+			"start": 763.77,
+			"end": 768.93,
+			"text": "Esto me llegó a pensar a lo siguiente y yo hablando con él me dijo que bueno que él",
+			"language": "es"
+		},
+		{
+			"start": 769.14,
+			"end": 780.9,
+			"text": "La felicidad que le transmití a programar era una felicidad, el poder crear, el poder construir, el poder hacer algo que funcionase. Y que no quería contaminar eso en ningún momento",
+			"language": "es"
+		},
+		{
+			"start": 781.47,
+			"end": 783.33,
+			"text": "por",
+			"language": "es"
+		},
+		{
+			"start": 783.33,
+			"end": 801.33,
+			"text": "el... no podemos llamar el retributo, el capitalismo, el dinero, la relación de tener que hacer eso para poder vivir. Y yo he llegado a un punto en el que creo que tú estás bastante cerca, si no lo tienes ya o lo puedes conseguir de cualquier otra forma, y es que, o como mínimo yo, una de las cosas que siempre he intentado seguir,",
+			"language": "es"
+		},
+		{
+			"start": 801.33,
+			"end": 809.55,
+			"text": "en base a él y es que el código nunca sea mi principal vía de ganarme la vida y tener siempre algo de fondo",
+			"language": "es"
+		},
+		{
+			"start": 810.84,
+			"end": 827.91,
+			"text": "Tener dos fuentes de ingresos. Pero creo que estás en el camino. Sí, cada vez la balanza está cambiando. Yo creo que porque tú lo quieres hacer de una determinada forma. Pero si hicieras algo que no te gusta, lo podrías obtener relativamente ya",
+			"language": "es"
+		},
+		{
+			"start": 827.97,
+			"end": 845.97,
+			"text": "Yo mañana saco un curso y no necesito trabajar. Eso es algo que me re... bueno, entiendo. Pero yo creo que eso es algo que como mínimo es una enseñanza o algo que me enseñó este hombre y que es algo que intentaría que todo el mundo lo tuviese como meta, que tuviera dos fuentes de ingresos y que",
+			"language": "es"
+		},
+		{
+			"start": 845.97,
+			"end": 846.45,
+			"text": "¡Gracias por ver el vídeo!",
+			"language": "es"
+		},
+		{
+			"start": 847.53,
+			"end": 863.1,
+			"text": "Si no te vieras covid-dicionado, claro, eso es muy complicado. Hay muchos puntos de vista, hay muchos tipos de trabajo. Yo conozco, bueno, ¿qué coño? Yo mismo, yo porque me quemé y me estanqué en IKEA. Mi etapa de IKEA ha sido la mejor etapa laboral que he tenido porque me lo pasaba increíble, el ambiente era increíble. Pero",
+			"language": "es"
+		},
+		{
+			"start": 863.1,
+			"end": 881.1,
+			"text": "bajo mi punto de vista estaba estancado en conocimiento porque el trabajo que tenía pues era maquetador php no no no no se subieron a la ola de lo nuevo jota cuerni no no no planteábamos view y no querían porque esto funciona no sé qué entonces en ese ámbito",
+			"language": "es"
+		},
+		{
+			"start": 881.1,
+			"end": 883.89,
+			"text": "me encontraba estancado. Eso era IKEA",
+			"language": "es"
+		},
+		{
+			"start": 883.95,
+			"end": 901.95,
+			"text": "Esto en Ikea. En Ikea, piensa que hay dos Ikeas. Está Ikea Península y la Global, que es inter Ikea, y después está todo el franquiciado que lleva las penínsulas, las islas, que lo lleva otro grupo y son competencias. Yo estaba en la competencia, en las islas, que es grande, es una compañía grande",
+			"language": "es"
+		},
+		{
+			"start": 901.95,
+			"end": 904.08,
+			"text": "¿Qué pasó?",
+			"language": "es"
+		},
+		{
+			"start": 904.71,
+			"end": 922.71,
+			"text": "Yo porque me quemé, pero yo estaba trabajando de puta madre. Yo trabajaba seis horas y media al día porque me tiraba una hora y media, había como cafés y tú te ibas al café y podías tirarte media hora tomando café. Y era como ser funcionario. Y yo entiendo que la gente no tiene la ambición de, bueno, ¿por qué quiero? Necesito más. Yo estoy cobrando mi sueldo de, yo qué sé, 1500, 1600, ¿eh? A ver, ¿qué pasa?",
+			"language": "es"
+		},
+		{
+			"start": 922.71,
+			"end": 940.71,
+			"text": "netos y con eso me basta para pagar mi alquiler para comer y tal para que pueda complicarme para qué quiero más responsabilidades para quiero hay gente que no necesita esa ambición y se conforma porque en su casa entran dos sueldos así y viven de que te cagas yo personalmente soy una persona avariciosa en el tema de que yo tengo un objetivo y yo os voy mal en la cara",
+			"language": "es"
+		},
+		{
+			"start": 940.71,
+			"end": 949.26,
+			"text": "lento y me cuesta mucho entender algunas cosas, pero sé dónde quiero ir y dónde quiero llegar. Entonces, poco a poco, como una hormiga, poco a poco. Vale. ¿Pero qué pasa?",
+			"language": "es"
+		},
+		{
+			"start": 949.74,
+			"end": 960.18,
+			"text": "Dímelo, dímelo, dímelo. No quiero acaparar. Es que lo que es una pregunta de esas personas que me estabas diciendo. Pero continúa, continúa. Dispara, dispara, dispara. Vale, eh",
+			"language": "es"
+		},
+		{
+			"start": 961.02,
+			"end": 974.91,
+			"text": "Dentro de ese grupo que estabais de Ikea, de esas personas que decíais que eran funcionarios, que eran autómatas, que era para conseguir su fin",
+			"language": "es"
+		},
+		{
+			"start": 976.14,
+			"end": 994.14,
+			"text": "¿Alguno de esos tenía un perfil más como el tuyo, desde el punto de vista de estudios, que ha aprendido todo lo que ha aprendido por gusto y no por temario? ¿Sabes si había alguno? A ver, éramos desarrolladores, deberíamos ser 12, divididos en varios equipos y había, obviamente, todos en general",
+			"language": "es"
+		},
+		{
+			"start": 994.14,
+			"end": 1012.14,
+			"text": "tenían curiosidades. Los que eran más experiencia, los dinosaurios, por así decirlo, aunque eran muy buenos, por ejemplo, en SQL, eran porque realmente tal, los más senior estaban, no recuerdo sueldos, no me acuerdo, pero a lo mejor siendo senior en IKEA, donde yo trabajaba, estabas cobrando 30k, llevando 12 años de experiencia, conociendo un poco de la tecnología",
+			"language": "es"
+		},
+		{
+			"start": 1012.14,
+			"end": 1015.08,
+			"text": "negocio, habiendo montado tres e-commerce",
+			"language": "es"
+		},
+		{
+			"start": 1015.08,
+			"end": 1018.11,
+			"text": "Es decir, el miedo que tienen ellos es",
+			"language": "es"
+		},
+		{
+			"start": 1018.68,
+			"end": 1036.68,
+			"text": "Ese tipo de proyectos que son tan grandes, tan bestias, que cambiarlo te impacta tanto en el equipo y en el desarrollo que te impide el desarrollo de negocio. Ese era el impedimento, que el cambiar no tenían huevos a atreverse a lanzar todo el proyecto en tecnología nueva. Pero aún así se hacían cosas muy chulas. Había gente en el equipo muy buena",
+			"language": "es"
+		},
+		{
+			"start": 1036.68,
+			"end": 1054.68,
+			"text": "Hay gente en el equipo que por necesidad estaba ahí y era increíble. Y es gente que yo he conocido y yo digo profesionales, o sea, incluso no es programadora, pero hay una chica que es social media, o social media no, bueno, es project leader de social y todo esto, y esa tía es una barbaridad trabajando. Y por un programador en que no se puede hacer nada",
+			"language": "es"
+		},
+		{
+			"start": 1054.68,
+			"end": 1071.57,
+			"text": "Go que estaba ahí metido y no hacía Go allí, que flipas. Yo tengo... Allí he hecho unos contactos increíbles. Eso sí, es lo que te digo, hasta dónde llegan tus ambiciones. Tú sí lo que te conformas es 1500 euros y a 8 horitas o 6 horitas y para casa, perfecto. Yo no quiero entonces. Yo intento espabilar",
+			"language": "es"
+		},
+		{
+			"start": 1071.6,
+			"end": 1089.6,
+			"text": "Luego está la otra cantidad, el escalar a saco, porque quiero tener un trabajo de 60k trabajando 8 horas, que eso está bastante bien. Claro, pero eso es complicado. Mira, dice por aquí... Un caso cercano, un excom... Bueno, yo me fui de omniages y a la semana se fue otro chico. Este chico lo dejó porque encontró un trabajo ahora en remoto",
+			"language": "es"
+		},
+		{
+			"start": 1089.6,
+			"end": 1090.38,
+			"text": "¡Adiós!",
+			"language": "es"
+		},
+		{
+			"start": 1090.44,
+			"end": 1108.44,
+			"text": "para una empresa finlandesa o algo así. Vale, yo también he tenido un trabajo en remoto para Nueva Zelanda, que también es una locura trabajar en otros sitios. Y es decir, si lo que aquí consideramos un sueldo alto, en Nueva Zelanda, Alemania, Finlandia, es una miseria, pero es una miseria absoluta",
+			"language": "es"
+		},
+		{
+			"start": 1108.44,
+			"end": 1115.07,
+			"text": "por eso digo que 20k me parece poco. Porque si comparas.",
+			"language": "es"
+		},
+		{
+			"start": 1115.34,
+			"end": 1133.34,
+			"text": "el obrero tiene que ganar mucho más, todo el mundo tiene que ganar mucho más. El tema es que yo creo que, no sé, es que no conozco otros sitios, no he vivido en otros sitios, pero creo que la calidad de vida que tenemos en España, al menos, yo hablo desde mi punto de vista, yo no he vivido en Sevilla, no he vivido en Jaén, no, pueblos, no sé, no sabría decir, no quiero cagarla, ¿vale?",
+			"language": "es"
+		},
+		{
+			"start": 1133.34,
+			"end": 1134.96,
+			"text": "Pero bueno",
+			"language": "es"
+		},
+		{
+			"start": 1135.02,
+			"end": 1140.54,
+			"text": "Creo que el coste de vida de una empresa, por así decirlo, el dinero que te puede dar una empresa en España",
+			"language": "es"
+		},
+		{
+			"start": 1140.57,
+			"end": 1143.15,
+			"text": "Te puedo dar el mismo dinero que una empresa en Finlandia",
+			"language": "es"
+		},
+		{
+			"start": 1143.33,
+			"end": 1144.5,
+			"text": "¿Vale? Entonces",
+			"language": "es"
+		},
+		{
+			"start": 1144.98,
+			"end": 1147.89,
+			"text": "Pues deberías poder pagar a un empleado",
+			"language": "es"
+		},
+		{
+			"start": 1147.92,
+			"end": 1159.5,
+			"text": "Igual en Finlandia que en España, porque estamos globalizados. Y si entras en una empresa global, o sea, con miras internacionales, deberían tener sueldos globalizados. Yo no he podido, por ejemplo. Yo no he podido",
+			"language": "es"
+		},
+		{
+			"start": 1159.53,
+			"end": 1177.53,
+			"text": "Ya sabéis todo el mundo que ya está empezando, que tiene redes sociales, etc, etc. Y yo no he podido, yo no he podido, pero más que nada porque estamos en una... ¿Cómo lo puedo explicar? Sabéis eso de.",
+			"language": "es"
+		},
+		{
+			"start": 1177.53,
+			"end": 1195.53,
+			"text": "a pesar de que sea una multinacional, todo el rango de lo que están dispuestos a ofrecerte se mueve dentro de esa categoría, a pesar de estar globalizado, etcétera, etcétera, es todo como una pieza de algo... Dime. Pregunta clave, o sea, en esa capa ¿no podías por ingresos? No podía por ingresos",
+			"language": "es"
+		},
+		{
+			"start": 1195.53,
+			"end": 1205.07,
+			"text": "que esos ingresos se habían limitado por lo que pagaba el cliente que teníamos. ¿Y tu precio era el mismo que la competencia?",
+			"language": "es"
+		},
+		{
+			"start": 1205.58,
+			"end": 1209.36,
+			"text": "Yo era el único en la competencia. Y aún así, no accedían",
+			"language": "es"
+		},
+		{
+			"start": 1211.31,
+			"end": 1211.94,
+			"text": "¡Adiós!",
+			"language": "es"
+		},
+		{
+			"start": 1212.36,
+			"end": 1230.36,
+			"text": "Era, es decir, eras main player en ese nicho. Sí, y en ese momento sí. Y después sí que aumentó todo un poco, pero no fue relativamente tan a la alza. Y además hay una cosa muy curiosa, y es que los precios que yo ofertaba en España y fuera de España no tenían nada que ver",
+			"language": "es"
+		},
+		{
+			"start": 1230.36,
+			"end": 1248.36,
+			"text": "y fuera de España eran mucho más altos y los aceptaban con gusto pero aquí en el momento en el que yo empecé era o España o nada de España y listo y es literalmente la definición gráfica es como si tú tienes una pieza de lego con el círculo así de enorme y estás intentando que encaje una de las piezas de lego",
+			"language": "es"
+		},
+		{
+			"start": 1248.36,
+			"end": 1252.23,
+			"text": "una ciudad pequeña. Pues así era la empresa que ya os digo",
+			"language": "es"
+		},
+		{
+			"start": 1252.38,
+			"end": 1257.36,
+			"text": "Dato importante, la empresa a la que estoy hablando es multinacional global",
+			"language": "es"
+		},
+		{
+			"start": 1258.68,
+			"end": 1276.68,
+			"text": "Y por el hecho de estar aquí, se negaba a ofertarme un precio mayor al que debería de ser y al que era fuera. Es decir, yo perfectamente podría contratar un abogado en Francia y hacer la contratación vía Francia y me estaría barragando mucho más. Pero simplemente por el hecho de aquí",
+			"language": "es"
+		},
+		{
+			"start": 1276.68,
+			"end": 1294.68,
+			"text": "no le salió de las pelotas bajo ningún momento. Pero la culpa realmente creo, o sea, voy a ir de cuñao, es de la cultura general que deba haber en España en relación a esto, de que vale, pues en España seguro que no vale tanto esto, entonces... Claro, claro. Es verdad, es verdad, no, no, no, no, que siempre que hago estos comentarios no pienso en esto y es una capa con suerte",
+			"language": "es"
+		},
+		{
+			"start": 1294.68,
+			"end": 1312.68,
+			"text": "es lo típico que todo el mundo dice, pero ¿por qué existe gente franquista? Pues mira, cuando se mueran todas las personas de esa época, pues ya nadie se acordará. Pues es lo mismo. ¿Por qué aquí se hace los de.",
+			"language": "es"
+		},
+		{
+			"start": 1312.68,
+			"end": 1315.14,
+			"text": "pero eso es cool",
+			"language": "es"
+		},
+		{
+			"start": 1315.17,
+			"end": 1331.7,
+			"text": "No en todas, ojo, estoy viendo ahora que hay cambios, pero suele ser como algo super estanco, sobre todo si estamos hablando de una multinacional, que el Project Manager o el Product Manager que te tiene que hablar contigo para no sé qué tiene 47 años, 50 y pico años, y no le sale las pelotas y además",
+			"language": "es"
+		},
+		{
+			"start": 1332.18,
+			"end": 1342.47,
+			"text": "es con el único con el que puedes tener acceso. Vale, vale, puede ser. Yo te digo, pero bueno, teniendo eso es cierto. O sea, esa capa no la he tenido en consideración, pero aún así",
+			"language": "es"
+		},
+		{
+			"start": 1342.47,
+			"end": 1343.61,
+			"text": "20K",
+			"language": "es"
+		},
+		{
+			"start": 1343.61,
+			"end": 1347.3,
+			"text": "20k en España. Sí, sí, se puede, se puede, se puede, se puede",
+			"language": "es"
+		},
+		{
+			"start": 1347.48,
+			"end": 1365.48,
+			"text": "¿Cuánto es 20k? 20k son 1250 euros. 1240 deben ser... Sí, creo que sí. Creo que sí. 20k la empresa... Sí, porque creo que son 20k brutos y realmente Netos debe estar cobrando 16... No sé. A ver, en resumen, que... Esto voy a tirar un oficio por tierra, pero.",
+			"language": "es"
+		},
+		{
+			"start": 1365.48,
+			"end": 1371.78,
+			"text": "cajera del mercado no está cobrando 24 o eso es el rumor que tengo yo que hace su trabajo bien seguramente pero",
+			"language": "es"
+		},
+		{
+			"start": 1371.81,
+			"end": 1375.92,
+			"text": "Sí, Irene, ¿tú sabes cuánto cobra una cajera de mercadona de algún supermercado?",
+			"language": "es"
+		},
+		{
+			"start": 1376.82,
+			"end": 1378.5,
+			"text": "El mínimo seguro",
+			"language": "es"
+		},
+		{
+			"start": 1379.16,
+			"end": 1384.02,
+			"text": "No, pero en Mercadona cobran 24 creo, eh. No, pero en el Mercadona cobran más, sí",
+			"language": "es"
+		},
+		{
+			"start": 1386.42,
+			"end": 1404.42,
+			"text": "Bueno, vale, sí, sí, que en los otros no, pero en Mercadona sí que está arriba. A ver, que no digo que no te vayan a cobrar eso, solo que me parece un sueldo bien. Entonces, en el desarrollo, que es un sector en auge, o sea, es que es un sector en auge, somos el único sector que, si no has estado en un mercado,",
+			"language": "es"
+		},
+		{
+			"start": 1404.42,
+			"end": 1422.42,
+			"text": "una empresa que sea turística o que ha sido muy afectada por el COVID, ha sobrevivido y está tirando de todo. Es decir, hoteles, turismo, todo esto se ha ido a la mierda. Desarrollo está aguantando. Todas las empresas tecnológicas están aguantando. Claro, pero también hay un caño muy gordo de desarrollo web y un caño muy fino de desarrollo de software",
+			"language": "es"
+		},
+		{
+			"start": 1422.42,
+			"end": 1422.75,
+			"text": "Subtítulos realizados por la comunidad de Amara.org",
+			"language": "es"
+		},
+		{
+			"start": 1424.13,
+			"end": 1442.13,
+			"text": "Yo creo que hay mucho desarrollo que... Nosotros estamos... Yo creo que al menos lo que se ve es la punta del iceberg, pero que de cara abajo, al menos en lo que he visto en los niaches, hay un montón de trabajo para desarrollo, solo que los desarrolladores.",
+			"language": "es"
+		},
+		{
+			"start": 1442.13,
+			"end": 1458.3,
+			"text": "boca a boca, hay sistemas de referidos entre empresas, tráeme a un colega, no sé, cosas así. Sí. Entonces, no lo sé, yo he visto mucho talento, en la última empresa en la que he estado he visto mucho, mucho, mucho talento. Y cuando empiezan a hablarte de satélites y cómo integran todo eso, flipas. Flipas",
+			"language": "es"
+		},
+		{
+			"start": 1458.54,
+			"end": 1476.54,
+			"text": "Bueno, aquí hay cosas turbias. Es lo que he contado al principio del stream, de que a mí una vez me dijeron que si yo podía hacer para... trabajaba.",
+			"language": "es"
+		},
+		{
+			"start": 1476.54,
+			"end": 1494.54,
+			"text": "explícitamente ni lo escribió y no lo explicitó como tal, sino que usó jerga técnica, que nadie más fuera del entorno lo puede entender, pero nos pidió que si de vez en cuando podíamos hacer que para el producto se desbloquease la base de datos, que no funcionara",
+			"language": "es"
+		},
+		{
+			"start": 1494.54,
+			"end": 1501.17,
+			"text": "funciona la interfaz una vez al año, etcétera, etcétera, etcétera. Esto me lo pidieron a mí",
+			"language": "es"
+		},
+		{
+			"start": 1501.62,
+			"end": 1517.61,
+			"text": "explícitamente y esto es sobre todo con este tipo de cosas de yo estoy en una empresa satélite que me subcontratan no sé qué que no se puede ofertar desde fuera porque eres más opaca bueno todas estas mierdas y esto es bastante yo he visto cositas de eso también",
+			"language": "es"
+		},
+		{
+			"start": 1517.67,
+			"end": 1521.15,
+			"text": "No voy a decir en qué empresa, pero sé de",
+			"language": "es"
+		},
+		{
+			"start": 1521.21,
+			"end": 1528.86,
+			"text": "de cómo es un servicio, rollo, tú estás ofreciendo un servicio a otra empresa y.",
+			"language": "es"
+		},
+		{
+			"start": 1529.37,
+			"end": 1532.16,
+			"text": "Sabes, tienes ese puente por debajo que",
+			"language": "es"
+		},
+		{
+			"start": 1532.34,
+			"end": 1533.66,
+			"text": "Sales ganando",
+			"language": "es"
+		},
+		{
+			"start": 1533.69,
+			"end": 1538.97,
+			"text": "Es un poco guaro, pero aún así, volviendo al debate inicial, 20k",
+			"language": "es"
+		},
+		{
+			"start": 1539.36,
+			"end": 1552.83,
+			"text": "Es que 20k es poco dinero. Para gente normal, yo no tengo 20k, no tengo ni 10k en el banco. Pero para una empresa que ya tiene empleados y tiene un negocio que está potencialmente creciendo, no está estancado, no es un negocio zombi",
+			"language": "es"
+		},
+		{
+			"start": 1553.31,
+			"end": 1571.31,
+			"text": "20k es poco dinero, o sea, literalmente, 20k. Sí, sí. Dice... a ver, ¿qué dicen por aquí? Que dicen bastantes cosas que no hemos leído. Uy, uy, uy. El problema de España es que como programador si quieres cobrar más, A. Eres un dios, B. Tienes que emprender o subir dinero",
+			"language": "es"
+		},
+		{
+			"start": 1571.31,
+			"end": 1589.31,
+			"text": "de cargo y tener más responsabilidades y acabas programando menos. ¿Tú estás de acuerdo con... eres un dios o...? No, yo... a ver... es que hay demasiadas variables metidas ahí. Depende de lo que entendamos por más. Es decir, que entendemos más por encima de 30k",
+			"language": "es"
+		},
+		{
+			"start": 1589.31,
+			"end": 1591.5,
+			"text": "Hay bastantes cosas",
+			"language": "es"
+		},
+		{
+			"start": 1591.62,
+			"end": 1596.06,
+			"text": "El 30k me parece poco con 12 años de experiencia",
+			"language": "es"
+		},
+		{
+			"start": 1596.06,
+			"end": 1614.06,
+			"text": "Es que ¿sabes qué pasa? Para mí los años de experiencia realmente no valen mucho. Imagínate, una persona en dos años de trabajo en una empresa que potencie mucho el desarrollo y te esté yendo bien, va a aprender muchísimo más que una persona que lleva 12 años haciendo lo mismo y estancado tecnológicamente",
+			"language": "es"
+		},
+		{
+			"start": 1614.06,
+			"end": 1616.79,
+			"text": "Con lo cual, para mí",
+			"language": "es"
+		},
+		{
+			"start": 1617.18,
+			"end": 1635.18,
+			"text": "Era senior porque sabía todo el tema de negocio, que eso es una rama que tienes que aprender trabajando también. Pero en tema de desarrollo, creo que hay gente que es una fuera de serie y nace con un don. A mí hay un nivel en el que, tú por ejemplo, yo creo que tienes parte de este don de entender que",
+			"language": "es"
+		},
+		{
+			"start": 1635.18,
+			"end": 1653.12,
+			"text": "las cosas, pero ahí llega un nivel, al menos en mi punto de vista, donde todo ya empieza a ser demasiado complejo para entenderlo. Donde vale, la programación bien, hemos llegado bien, vamos avanzando, pero ya empieza a doler, ya empieza complejo, matemáticas, ya no es.",
+			"language": "es"
+		},
+		{
+			"start": 1653.69,
+			"end": 1660.65,
+			"text": "optimización. Es como ya llegas ya al siguiente nivel, ya necesitas un mentor para llegar casi. Es curioso, es curioso",
+			"language": "es"
+		},
+		{
+			"start": 1660.77,
+			"end": 1673.7,
+			"text": "Entiendo la capa de la que hablas, pero también depende de lo cabezón que quieras ser. No tiene muchas cosas. Dice, la forma de los paises de pensar... Bueno, claro, es que estamos hablando de aquí. Sí, aquí puede ser cualquier mierda.",
+			"language": "es"
+		},
+		{
+			"start": 1673.7,
+			"end": 1691.7,
+			"text": "Aquí como en cualquier cosa, es decir, aquí ingenieros mecánicos o todo esto también están puteados. Los buenos desarrolladores nunca son los que ganan más dinero aunque tengan buenas ideas, son los que saben vender el producto los que triunfan. En Microsoft Bill Gates no era el mejor programador y no digamos Steve Jobs",
+			"language": "es"
+		},
+		{
+			"start": 1691.7,
+			"end": 1709.7,
+			"text": "en Apple, pero es que eso es una cultura en la que el software no existía. Es no, esa opinión está basada en un 0,00001% de casos de éxito, es decir, hay muchísimos más casos de éxito de desarrolladores 100% y desarrolladores que se han convertido a marketing y de marketing que se han convertido a desarrolladores. Yo",
+			"language": "es"
+		},
+		{
+			"start": 1709.7,
+			"end": 1727.7,
+			"text": "He visto un chico, que no sé si estabas hablando tú con él o no estabas hablando con él, no sé, pero he visto como que alguien estaba hablando con él en las conversaciones de Twitter que ha sacado algo de, creo que era un amigo invisible por internet. Sí, Hacin. Vale, yo no lo había visto, no lo había conocido nunca, pero sí que he ido viendo",
+			"language": "es"
+		},
+		{
+			"start": 1727.7,
+			"end": 1738.05,
+			"text": "algunas cosas que hace. Tiene esto de amigos invisibles por internet que no sé si se coma una comisión de lo que se paga, no sé si tiene algún tipo de comisión, pero después he visto otras cosas",
+			"language": "es"
+		},
+		{
+			"start": 1738.11,
+			"end": 1756.11,
+			"text": "Está desarrollando esa idea, este tío está lanzando ideas ahora. He visto otra que tiene, que es la de My Presets o algo así, que básicamente... Check My Presets. Está muy guay, viene de filtros de... bueno, de... Adobe... Lightroom, creo. Sí, de no sé qué, y es una página que",
+			"language": "es"
+		},
+		{
+			"start": 1756.11,
+			"end": 1763.58,
+			"text": "donde cualquiera puede subir su precep y él se queda un pequeño porcentaje. Y creo que eso sí que es una muy buena pieza de desarrolladores que",
+			"language": "es"
+		},
+		{
+			"start": 1764.12,
+			"end": 1782.12,
+			"text": "que saben aprovechar las dos partes porque yo... Te voy a decir una cosa que a lo mejor no... Esto es importante, te voy a decir una cosa sobre este chico que a lo mejor no sabías. Este tío viene de ser, si no cofundador CMO, que es jefe de marketing de Flamingueo. La empresa esta que ha salido de repente vendiendo fotógrafos de.",
+			"language": "es"
+		},
+		{
+			"start": 1782.12,
+			"end": 1799.97,
+			"text": "ni la empresa. ¿La playa no te parece un año que se llenaba todo de colchones de flamenco? Sí. Pues el que vendía... ¿Era eso? Es un Hawkers de flamenco, sin cable. Levantaron millones y un montón de comida. Pero no puede ser",
+			"language": "es"
+		},
+		{
+			"start": 1800.57,
+			"end": 1802.46,
+			"text": "En serio, es que es guay",
+			"language": "es"
+		},
+		{
+			"start": 1802.46,
+			"end": 1815.33,
+			"text": "Creo que si no me equivoco, este chico era CMO o co-founder de esta empresa. Juraría, a lo mejor me estoy columpiando. Pero bueno, el caso es que él aprovechó la pandemia para aprender a programar",
+			"language": "es"
+		},
+		{
+			"start": 1816.68,
+			"end": 1817.46,
+			"text": "Ya",
+			"language": "es"
+		},
+		{
+			"start": 1817.52,
+			"end": 1819.74,
+			"text": "Y ahora es cuando está lanzando proyectos",
+			"language": "es"
+		},
+		{
+			"start": 1819.98,
+			"end": 1827.69,
+			"text": "Pero aprendió a programar desde cero, ¿no? Está bastante guay. No sé si es de cero, pero sí que se ha hecho un bootcamp rollo de aprender a programar y todo esto",
+			"language": "es"
+		},
+		{
+			"start": 1827.9,
+			"end": 1831.2,
+			"text": "Y ahora está lanzando. Ha lanzado CheckMyPresets, ahora está lanzando esta",
+			"language": "es"
+		},
+		{
+			"start": 1831.2,
+			"end": 1849.2,
+			"text": "Dice que se lo divierte. Y para mí es un claro ejemplo de la interacción. Está muy guay, está muy guay. A ver qué nos dicen por aquí. Muchas gracias por la suscripción, Poliedro. A ver, voy a leer algo por aquí. Para mí me lo pago con mi increíble sueldo de 80k. Joder",
+			"language": "es"
+		},
+		{
+			"start": 1849.2,
+			"end": 1858.71,
+			"text": "Yo he visto empresas contratando en remoto a indios, a indonesios, por ahorrar. Pero eso es otro nivel, ¿eh? Eso es otro nivel",
+			"language": "es"
+		},
+		{
+			"start": 1858.74,
+			"end": 1860.6000000000001,
+			"text": "No te conviene trabajar para esa empresa",
+			"language": "es"
+		},
+		{
+			"start": 1860.78,
+			"end": 1878.78,
+			"text": "No, no, no, claro. No, pero no creo que haya sido lo que he trabajado. Yo he visto a gente cobrar 14k en Madrid que viven con papas obvias, pero es que eso es... Devaluar todo lo que se ha ido construyendo durante tanto tiempo, aceptar eso, también es un poco el des.",
+			"language": "es"
+		},
+		{
+			"start": 1878.78,
+			"end": 1882.53,
+			"text": "es el tirar por eso, por la vía",
+			"language": "es"
+		},
+		{
+			"start": 1882.53,
+			"end": 1889.25,
+			"text": "Yo por aportar, por decir sueldos, en Ikea un backend que en principio debería cobrar más de lo que yo hacía",
+			"language": "es"
+		},
+		{
+			"start": 1889.7,
+			"end": 1895.13,
+			"text": "Entró como becario, que para mí la figura becario no debería existir, al menos gratis",
+			"language": "es"
+		},
+		{
+			"start": 1895.76,
+			"end": 1898.79,
+			"text": "y acabó siendo contratado por 16k",
+			"language": "es"
+		},
+		{
+			"start": 1898.79,
+			"end": 1899.93,
+			"text": "o 14K",
+			"language": "es"
+		},
+		{
+			"start": 1900.23,
+			"end": 1907.16,
+			"text": "Y hace poco, ha llevado un año y pico, pidió un aumento y con el tema de COVID, a lo mejor le habrán dado subido un K al año. Me parece un insulto",
+			"language": "es"
+		},
+		{
+			"start": 1907.19,
+			"end": 1914.1200000000001,
+			"text": "Es un insulto, o sea, increíble. A 12K. Sí, sí, sí. Es delicado, es delicado",
+			"language": "es"
+		},
+		{
+			"start": 1914.1200000000001,
+			"end": 1915.47,
+			"text": "Es bastante delicado",
+			"language": "es"
+		},
+		{
+			"start": 1915.8,
+			"end": 1933.1100000000001,
+			"text": "Eso se ve en muchas partes. Hay empresas que contratan a desarrolladores venezolanos que están en Venezuela para ahorrarse dinero igual. Todas estas cosas son... es decir, es la burria de.",
+			"language": "es"
+		},
+		{
+			"start": 1933.41,
+			"end": 1951.41,
+			"text": "Sabes que me está contactando un montón de gente ahora de Argentina, Venezuela, algo similar. Yo sé que hace poco un vídeo de Levels, ¿sabes quién es Peter Levels? Sí, el que hizo 100Ks o... Sí, sí. Al ser programación mucha gente ha entendido que",
+			"language": "es"
+		},
+		{
+			"start": 1951.41,
+			"end": 1968.93,
+			"text": "que programar es un camino viable para ganar dinero por internet y me preguntan en estudios, me están preguntando, oye, José, estoy estudiando en Argentina un curso de IT, no sé qué, de programación, ¿cómo está en España la cosa para ir para allá? No sé qué. Es como que",
+			"language": "es"
+		},
+		{
+			"start": 1969.65,
+			"end": 1981.53,
+			"text": "Encuentro que va a haber un... ¿Estos años? ¿Va a haber un... cómo se dice? ¿Emigraciones cuando viene? Cuando viene la gente es emigración. Cuando viene es inmigración. Inmigración de.",
+			"language": "es"
+		},
+		{
+			"start": 1981.77,
+			"end": 1992.93,
+			"text": "va a haber, hacia los países donde haya desarrollo tecnológico, va a haber un montón de inmigración. No quiero decir que sea malo, esto es bueno, realmente es lo que va a pasar, pero",
+			"language": "es"
+		},
+		{
+			"start": 1992.99,
+			"end": 2001.6,
+			"text": "Pero me llama la atención con el auge que estoy notando yo. Al menos un montón, pero un montón me refiero a más de 100 personas. Más de 100 personas, ¿eh? O sea, que me han dicho, ¡hey! No sé qué",
+			"language": "es"
+		},
+		{
+			"start": 2001.81,
+			"end": 2019.81,
+			"text": "A mi me pasa lo mismo, porque por aquí pasa muchísima gente que está haciendo Dam, Dau... Sobre todo mucha gente de Argentina, no lo entiendo. Pero de todo esto, y sí que es bastante constante el... El flujo de... Claro, es que yo entiendo que si estás en... Depende de qué país es de Latinoamérica, puedes ver esto como un.",
+			"language": "es"
+		},
+		{
+			"start": 2019.81,
+			"end": 2037.81,
+			"text": "para eso si tienes algún tipo de ingeniería de sistemas o formación en sistemas por el tema del idioma por el tema del clima y por el tema de todo esto entonces calidad de vida claro ya creo que es probable que exista y no te voy a decir una cosa quizás no quizás no es tan",
+			"language": "es"
+		},
+		{
+			"start": 2037.81,
+			"end": 2043.1200000000001,
+			"text": "como que vengan unas piezas de personas aquí en plana en masa si no es más",
+			"language": "es"
+		},
+		{
+			"start": 2043.15,
+			"end": 2049.3,
+			"text": "que se empiezan a ocupar los puestos de trabajo de aquí en remoto",
+			"language": "es"
+		},
+		{
+			"start": 2049.33,
+			"end": 2067.33,
+			"text": "Creo, creo que puede empezar a pasar eso, más que lo otro. Dice por aquí, dice yo soy argentino y siempre existió ese fantasma de que en el exterior se vive mejor y muchas personas se lo creen. Hombre, pero es que en este caso si eres un programador y por ejemplo te mudas aquí en los 2000",
+			"language": "es"
+		},
+		{
+			"start": 2067.33,
+			"end": 2072.88,
+			"text": "15 2018 y aún hoy sigue",
+			"language": "es"
+		},
+		{
+			"start": 2073.12,
+			"end": 2081.07,
+			"text": "Puedes pegar un salto de vida bastante interesante si vienes de algún sitio, pues de Argentina, que por desgracia está súper deprimido ahora",
+			"language": "es"
+		},
+		{
+			"start": 2081.1,
+			"end": 2090.52,
+			"text": "según qué partes, obviamente, no lo sé, pero sí que creo yo que es interesante. Pero ahora, es decir, yo creo que tienes razón, ahora las cosas van a cambiar. Creo que el trabajo en remoto",
+			"language": "es"
+		},
+		{
+			"start": 2090.67,
+			"end": 2095.23,
+			"text": "Va a explotar, va a haber un montón de trabajo en remoto y estoy 100% seguro",
+			"language": "es"
+		},
+		{
+			"start": 2095.5,
+			"end": 2103.42,
+			"text": "100% seguro, acabo de decir una barbaridad. Bueno, estoy 50% seguro de que estando en Argentina seguramente puedas obtener un salario bueno",
+			"language": "es"
+		},
+		{
+			"start": 2103.42,
+			"end": 2115.3,
+			"text": "Sí, y con un poder adquisitivo mucho mayor del que tendrías aquí y del que tendrías allí. Que es que claro, te puedes conseguir una",
+			"language": "es"
+		},
+		{
+			"start": 2115.45,
+			"end": 2133.45,
+			"text": "una casa en nada",
+			"language": "es"
+		},
+		{
+			"start": 2133.45,
+			"end": 2151.33,
+			"text": "argentinos y a lo mejor pareja argentina y su madre tiene casas en argentina pero no le llega a preguntar cuánto valen debería por si se considera braguetazo no sé yo es que poner liquidez en un patrimonio así tan gordo que se me va la cámara vamos a recuperar la cámara",
+			"language": "es"
+		},
+		{
+			"start": 2151.87,
+			"end": 2152.56,
+			"text": "¿Mm?",
+			"language": "es"
+		},
+		{
+			"start": 2152.83,
+			"end": 2156.19,
+			"text": "Bueno, ahora se te ha ido la cámara. A ver si la pongo ya",
+			"language": "es"
+		},
+		{
+			"start": 2156.91,
+			"end": 2173.44,
+			"text": "Listo. Claro, pero es más, hay gente que lo que hace es se va a Val, o sea, consigue... bueno, esto en Estados Unidos, también es que es Estados Unidos. Se van a San Francisco, se ve que en San Francisco ahora está viendo.",
+			"language": "es"
+		},
+		{
+			"start": 2173.44,
+			"end": 2176.65,
+			"text": "Y hay gente que se va a Bali con un sueldo de San Francisco que",
+			"language": "es"
+		},
+		{
+			"start": 2176.8,
+			"end": 2181.93,
+			"text": "100k, es mínimo, es junior 100k. Por eso pregunto, ¿qué tipo.",
+			"language": "es"
+		},
+		{
+			"start": 2182.29,
+			"end": 2184.54,
+			"text": "Si una empresa puede pagar a un Junior 100k",
+			"language": "es"
+		},
+		{
+			"start": 2185.56,
+			"end": 2197.5,
+			"text": "¿Por qué no pagarle 20? Es que son 5 veces menos. En Venezuela un departamento cuesta de 5k a 25k. ¿Pero de euros o de qué cosa? De dólares",
+			"language": "es"
+		},
+		{
+			"start": 2197.59,
+			"end": 2215.59,
+			"text": "puede ser. Pues a lo mejor me pongo a comprar casas aunque no las use. Hombre yo hace... yo creo que me puedo comprar ya una casa si son 5k de dólares. Escucha, y si resulta que Venezuela en el futuro es... Uff, pero Venezuela no tiene pinta de... no, no.",
+			"language": "es"
+		},
+		{
+			"start": 2215.59,
+			"end": 2228.19,
+			"text": "estar en Venezuela. De dólares. Dejando su terrenito que los que lo ocupen, es decir, que me escupen el terreno sin problema. Yo no pague nadie. Yo pago el terreno y lo tengo ahí a mi nombre, que lo usen. Y dice por aquí, sí, sí, invierte en Venezuela",
+			"language": "es"
+		},
+		{
+			"start": 2228.2200000000003,
+			"end": 2229.18,
+			"text": "¡Gracias!",
+			"language": "es"
+		},
+		{
+			"start": 2229.24,
+			"end": 2236.56,
+			"text": "No, no, con esa carita en Venezuela te violan. No, pero no digo para ir, yo lo compro y lo piso en Venezuela hasta que esté bien",
+			"language": "es"
+		},
+		{
+			"start": 2236.62,
+			"end": 2254.62,
+			"text": "Y si yo leía bastantes posts en blind que decían que el remoto ahora está fuerte pero en el momento en el que todo vuelva a la normalidad y la gente vuelva a la oficina, los que eligieron el remoto al 100% decían que se quedarían apartados. No lo sé yo, a ver, yo... Yo he leído ese artículo, yo lo he leído. Pero tener en cuenta que",
+			"language": "es"
+		},
+		{
+			"start": 2254.62,
+			"end": 2261.7,
+			"text": "que.",
+			"language": "es"
+		},
+		{
+			"start": 2261.7,
+			"end": 2279.7,
+			"text": "favoritos, etcétera, que es el Man in the Bridge, que no está conocido así, no está muy reconocido, pero básicamente es una persona que ya está completamente desconectada del grupo, suele ser un ingeniero de software, un desarrollador de software, y que lo principal que hace son dos tareas. Una tarea es coger todo el grueso, es decir, el grueso, el problema grueso, gordo de los animatronicos",
+			"language": "es"
+		},
+		{
+			"start": 2279.7,
+			"end": 2284.14,
+			"text": "equipos de ingeniería que están por debajo que no pueden resolver digamos que su tarea secundaria",
+			"language": "es"
+		},
+		{
+			"start": 2284.32,
+			"end": 2302.32,
+			"text": "y la principal es una persona que se dedica a realizar MVP y prototipos de dos ideas por mes que tiene la empresa por ejemplo una farmacéutica tal y esas piezas se buscan más cada vez sobre todo en negocios que son relativamente verticales que tiene una misma temática y que se buscan más",
+			"language": "es"
+		},
+		{
+			"start": 2302.32,
+			"end": 2308.92,
+			"text": "Y esos negocios pueden ser completamente remotos desde principio a fin",
+			"language": "es"
+		},
+		{
+			"start": 2308.98,
+			"end": 2311.71,
+			"text": "Y conozco muchas personas que tienen este rol, yes",
+			"language": "es"
+		},
+		{
+			"start": 2312.58,
+			"end": 2319.9,
+			"text": "no tienes a alguien que te presione, tienes al jefe de ingenieros o tienes a alguien pero en realidad tú estás.",
+			"language": "es"
+		},
+		{
+			"start": 2320.5299999999997,
+			"end": 2322.81,
+			"text": "El.",
+			"language": "es"
+		},
+		{
+			"start": 2322.96,
+			"end": 2340.21,
+			"text": "Uno de los dos que ha dicho yo tengo ese rol ahora mismo. Y yo creo que eso en remoto cada vez pasa más y es muy beneficioso. Y quizás... ¿El artículo era de España o no era de España? No recuerdo, pero sí que me suena mucho lo que ha dicho este chico. El tema es que tiene razón, porque estamos hablando de que estos puestos serán",
+			"language": "es"
+		},
+		{
+			"start": 2340.3,
+			"end": 2346.9,
+			"text": "serán demandados, pero dentro de la demanda en general va a ser un porcentaje muy pequeño",
+			"language": "es"
+		},
+		{
+			"start": 2347.26,
+			"end": 2365.26,
+			"text": "Joder, al menos yo lo noto. El ambiente que tenía en IKEA de allí, eso es un factor que no vas a tener en tu casa. En casa tienes más comodidad, puedes trabajar en pijama. Yo voy con gallum, bueno, no voy en gallum, será un troleo, pero... Hay muchas comodidades, pero es el equilibrio. Siempre estar tres días en remoto, dos en la oficina",
+			"language": "es"
+		},
+		{
+			"start": 2365.26,
+			"end": 2376.99,
+			"text": "Eso es... está que te cagas. Si creo se pueda elegir, me parece súper, súper guay. Que estás dos semanas que no te encuentras bien y prefieres trabajar desde casa... Trabaja desde casa. Eh... que.",
+			"language": "es"
+		},
+		{
+			"start": 2377.2,
+			"end": 2384.9700000000003,
+			"text": "El tema del 100% remoto, bajo mi punto de vista, y habiendo vivido casi el 90% de la cuarentena 100% remoto,",
+			"language": "es"
+		},
+		{
+			"start": 2385.06,
+			"end": 2386.59,
+			"text": "Y",
+			"language": "es"
+		},
+		{
+			"start": 2387.16,
+			"end": 2391,
+			"text": "¿Quién es su aquel? El contacto con alguien conocente se echa de menos",
+			"language": "es"
+		},
+		{
+			"start": 2391.36,
+			"end": 2392.26,
+			"text": "¡Adiós!",
+			"language": "es"
+		},
+		{
+			"start": 2392.4700000000003,
+			"end": 2410.4700000000003,
+			"text": "que ya entramos en personalidades y demás, pero por ejemplo, tú con quien estás, tú tienes cosas freelance ¿no? Sí. Vale. ¿Tienes algún cliente así fuerte? Que digas que te está pidiendo muchas cosas, fuerte a nivel de que no hay mucha diferencia entre... Trabajo....también. ¿Trabajo? Sí",
+			"language": "es"
+		},
+		{
+			"start": 2410.4700000000003,
+			"end": 2414.37,
+			"text": "entre trabajar a plantilla o a freelance? No",
+			"language": "es"
+		},
+		{
+			"start": 2414.37,
+			"end": 2422.86,
+			"text": "El momento en lo que tengo es light de momento. Vale, vale, vale, entonces era para ir por otros derroteros. Pero vale, vale, entonces nada, nada, nada, nada",
+			"language": "es"
+		},
+		{
+			"start": 2422.86,
+			"end": 2427.84,
+			"text": "Pero bueno, a ver que me decís por aquí.",
+			"language": "es"
+		},
+		{
+			"start": 2428.08,
+			"end": 2435.4300000000003,
+			"text": "Pero es que justamente el tema de meter dinero en mi país, en Argentina, hombre... Era una bomba, era una bomba. Sí, sí, no se puede",
+			"language": "es"
+		},
+		{
+			"start": 2436,
+			"end": 2446.35,
+			"text": "Aceros, claro, tú eres autónomo, ¿no? Aceros Autónomos, que es el futuro. Yo soy autónomo y es más, creo que ya me va a subir la cuota al máximo, tío",
+			"language": "es"
+		},
+		{
+			"start": 2447.2200000000003,
+			"end": 2451.81,
+			"text": "Es lo bueno de tener varias fuentes de negocio",
+			"language": "es"
+		},
+		{
+			"start": 2451.87,
+			"end": 2454.7200000000003,
+			"text": "Yo no dependo de una nómina, entonces",
+			"language": "es"
+		},
+		{
+			"start": 2454.99,
+			"end": 2466.12,
+			"text": "que es... yo tengo dinero extra, ¿sabes? Y de varias fuentes. Entonces, lo que hago es, a principio de cada mes, cojo una parte y eso va para impuestos. Hostia, un gato. ¡Ja, ja, ja!",
+			"language": "es"
+		},
+		{
+			"start": 2466.3,
+			"end": 2477.9700000000003,
+			"text": "Me lo dejo por aquí. Sí, no sé. Es que claro, aquí hay de temas para hablar y para hablar y para hablar que... Sí, sí. Ahora preguntan si tienen desempleo los autónomos y esto me interesa saberlo. Yo sé que",
+			"language": "es"
+		},
+		{
+			"start": 2478.48,
+			"end": 2480.76,
+			"text": "Mi experiencia primera.",
+			"language": "es"
+		},
+		{
+			"start": 2480.94,
+			"end": 2481.7200000000003,
+			"text": "Subtítulos realizados por la comunidad de Amara.org",
+			"language": "es"
+		},
+		{
+			"start": 2481.7200000000003,
+			"end": 2486.94,
+			"text": "o desempleo de retribución",
+			"language": "es"
+		},
+		{
+			"start": 2487.06,
+			"end": 2505.06,
+			"text": "Exacto, eso es lo que no entiendo yo. ¿Qué quieres saber? ¿Si tienen paro o si hay mucha demanda? Claro, claro. Mi objetivo es convertirme en nómada digital para no pagar impuestos. Eso es una locura. Eso te aburre a los dos años. Cobrar el paro. Dicen que sí tenemos derecho a cobrar paro. Me dijeron que sí. O sea, me dijeron que según qué caso",
+			"language": "es"
+		},
+		{
+			"start": 2505.06,
+			"end": 2512.6800000000003,
+			"text": "pero hay casos que sí. Yo nunca he cobrado el paro. O sea, tengo... Tú te lees.",
+			"language": "es"
+		},
+		{
+			"start": 2512.83,
+			"end": 2521.8,
+			"text": "Vale, vale, entiendo que... vale. Y has probado, porque como sé que tú viste de empresa y tal, has probado capitalizar el paro?",
+			"language": "es"
+		},
+		{
+			"start": 2521.89,
+			"end": 2526.7799999999997,
+			"text": "No, porque además mi arquitectura era bastante",
+			"language": "es"
+		},
+		{
+			"start": 2526.87,
+			"end": 2529.24,
+			"text": "Exótica, es decir",
+			"language": "es"
+		},
+		{
+			"start": 2529.7200000000003,
+			"end": 2541,
+			"text": "Mi facturación era directamente en España. Mi facturación pasaba por Estonia y de Estonia facturaba en España. Y aún facturando en dos pasos me salía más a cuenta que facturar solo aquí",
+			"language": "es"
+		},
+		{
+			"start": 2542.29,
+			"end": 2554.4700000000003,
+			"text": "Porque tú en Estonia... Sí, claro. Sí, porque tú en Estonia hace bastante tiempo, ahora también puedes serlo pero es bastante complicado, una de las cosas que tú podrías hacer era convertirte en ciudadano líquido",
+			"language": "es"
+		},
+		{
+			"start": 2554.86,
+			"end": 2567.61,
+			"text": "Sí, sí, es más, creo que ahora se ha puesto de moda, ¿no? Con la ISA. Se ha puesto de moda, pero ahora está muy abajo. Es decir, está muy, muy, muy, muy abajo el que te lo pueda sacar. Vale. Y, aun así, teniendo, facturando en Estonia, facturando aquí",
+			"language": "es"
+		},
+		{
+			"start": 2567.7,
+			"end": 2573.55,
+			"text": "me salía mucho más barato que sólo facturar aquí. Después.",
+			"language": "es"
+		},
+		{
+			"start": 2573.67,
+			"end": 2591.67,
+			"text": "que te desfale una empresa allí. Si tú eres un ciudadano líquido, si tú eres un ciudadano líquido allí, tienes derecho a una cuenta de banco, a una empresa, y después derechos civiles no tienes ninguno. No puedes votar, no puedes nada. Simplemente, puedes ser una entidad mercantil o mercantil",
+			"language": "es"
+		},
+		{
+			"start": 2591.67,
+			"end": 2595.24,
+			"text": "¿Puede ser una entidad mercantil completamente operativa?",
+			"language": "es"
+		},
+		{
+			"start": 2595.42,
+			"end": 2596.56,
+			"text": "¡Adiós!",
+			"language": "es"
+		},
+		{
+			"start": 2597.13,
+			"end": 2615.13,
+			"text": "Y aún así, enrutándolo de esta forma salía mucho más directo que hacerlo por aquí. Tengo... no puedo dar todos los detalles, porque son cosas que están por ahí, pero es absolutamente legal a ojos de Hacienda, de España, de todo el mundo. Yo pensaba que te estabas obligado a residir seis meses fuera de tu casa",
+			"language": "es"
+		},
+		{
+			"start": 2615.13,
+			"end": 2616.99,
+			"text": "fuera de España para eso. FSH. No",
+			"language": "es"
+		},
+		{
+			"start": 2617.35,
+			"end": 2621.19,
+			"text": "Bueno, ahora no lo sé, pero claro es que yo la tengo de hace 6 años, más o menos",
+			"language": "es"
+		},
+		{
+			"start": 2621.46,
+			"end": 2639.46,
+			"text": "Que simplemente lo único que tenías que hacer era ir al consulado, presentar un pliego de la policía, conforme no eras un estafador, no hayas hecho cosas de nada por el estilo, y ya está. Tres meses o así, y ya la tenías. A ver qué dicen por aquí. Sí, no, pero es que eso tiene mucha miga. También hay un tema interesante y es que también hay un tema que me gusta mucho",
+			"language": "es"
+		},
+		{
+			"start": 2639.46,
+			"end": 2647.23,
+			"text": "Todas las ofertas laborales tienen un mínimo de dos años de experiencia, multitud de tecnologías y así es complicado que entren perfiles juniors en el sector",
+			"language": "es"
+		},
+		{
+			"start": 2647.59,
+			"end": 2648.76,
+			"text": "¡Adiós!",
+			"language": "es"
+		},
+		{
+			"start": 2649.06,
+			"end": 2667.06,
+			"text": "Bueno, es que no vamos a hablar de esto porque esto ya es lo que siempre está ahí, que es la pescadilla, que se muerde la cola, etcétera, etcétera. Cuando no encuentras curro sí que hay desempleo, claro. Bueno, sí, claro. Es el.",
+			"language": "es"
+		},
+		{
+			"start": 2667.06,
+			"end": 2684.52,
+			"text": "¿Consideras que eres válido tecnológicamente para asumir ese puesto? Siendo... Siendo... Yo aplicaría, pero simplemente por el porfolio que tengo ya valida los dos años. O el porfolio que tendrían es hipotético. Ya, pero por la técnica, esto es relativamente nuevo",
+			"language": "es"
+		},
+		{
+			"start": 2685.12,
+			"end": 2697.9,
+			"text": "Prueba... eh... antes era en plan.",
+			"language": "es"
+		},
+		{
+			"start": 2698.05,
+			"end": 2709.42,
+			"text": "Si que lo tienes, yo no. O... Intente informarme, yo no. Y... Yo... Bueno, no se si.",
+			"language": "es"
+		},
+		{
+			"start": 2709.87,
+			"end": 2716.71,
+			"text": "Yo no lo he mirado, no lo he mirado, pero... Ah, que está pedriendo por aquí. Dice, hay que cumplir unos requisitos, pero sí se puede, sí, sí, claro",
+			"language": "es"
+		},
+		{
+			"start": 2716.74,
+			"end": 2725.86,
+			"text": "Muy buenas, David. Pedro Seo es Pedro Seo, ¿no? Pedro de Channel YouTube. Sí, el que tiene la agencia, que hace los estribillos de la agencia. Lo vi la otra vez. Un crack, tío",
+			"language": "es"
+		},
+		{
+			"start": 2726.19,
+			"end": 2735.61,
+			"text": "Pero tú estás en paro o no? Porque yo ya... Yo es lo que he dicho antes, que no sé si es de esto, pero yo intento tener dos actividades comerciales. Y mi actividad comercial actual",
+			"language": "es"
+		},
+		{
+			"start": 2735.64,
+			"end": 2753.64,
+			"text": "Aparte de freelance de código es joyería. Yo soy joyero. Esto le choca mucho a todo el mundo, pero tiene mucha relación con la informática. A ver, no te lo piñas. Es más espectacular. Tienes que reconocer que con la información que tengo, este trabajo es muy espectacular. Yo lo he explicado por aquí muchas veces, ¿eh?",
+			"language": "es"
+		},
+		{
+			"start": 2753.64,
+			"end": 2754.42,
+			"text": "Genial",
+			"language": "es"
+		},
+		{
+			"start": 2754.57,
+			"end": 2770.62,
+			"text": "Me parece increíble. Yo esto cuando lo conocí dije, no puede ser. Bueno, voy a decir una cosa. Realmente no soy joyero. Tengo la capacidad de obtener una pieza de joyería final, la que yo quiera y a mi gusto. Porque joyero implica muchas otras cosas. No me voy a llamar joyero porque no lo soy",
+			"language": "es"
+		},
+		{
+			"start": 2770.62,
+			"end": 2779.05,
+			"text": "pero puedo obtener joyería. Realmente eres lo que será la joyería en el futuro. O ahora, en el presente, pero en el futuro estará más desarrollado",
+			"language": "es"
+		},
+		{
+			"start": 2779.89,
+			"end": 2781.7200000000003,
+			"text": "Es como",
+			"language": "es"
+		},
+		{
+			"start": 2782.2,
+			"end": 2788.38,
+			"text": "¿Cómo se podría...? Es como un adelantado en el tiempo, porque la joya... Mucha joyería no debe saber eso. Solo las.",
+			"language": "es"
+		},
+		{
+			"start": 2789.16,
+			"end": 2800.62,
+			"text": "Sí, sí, sí. A ver, dicen por aquí... a ver, que yo lea, que he leído por aquí algo, que va el chatarra rápido y dice.",
+			"language": "es"
+		},
+		{
+			"start": 2800.8,
+			"end": 2802.24,
+			"text": "Si no te cogen",
+			"language": "es"
+		},
+		{
+			"start": 2802.36,
+			"end": 2806.8,
+			"text": "Si no te cogen ni tienes experiencia",
+			"language": "es"
+		},
+		{
+			"start": 2807.13,
+			"end": 2818.38,
+			"text": "emprende a tus proyectos por tu cuenta. David Parr es... Siempre me confundo con David Parr, no sé si es Product Manager o Project Manager de.",
+			"language": "es"
+		},
+		{
+			"start": 2818.95,
+			"end": 2819.73,
+			"text": "¡Adiós!",
+			"language": "es"
+		},
+		{
+			"start": 2820.0299999999997,
+			"end": 2838.0299999999997,
+			"text": "A ver, es que... Claro, es importante dar este dato en contexto porque desde tu punto de vista y con tu... Depende de los perfiles, sí que te es más fácil aprender, que te apoyen, que entiendan, tienes una red de contactos muy potente.",
+			"language": "es"
+		},
+		{
+			"start": 2838.0299999999997,
+			"end": 2847.96,
+			"text": "estés quien seas y que hagas, sí que los proyectos se viralizan más, se viralizan menos, tienen más relevancia o no. Sí que hay por ahí bastantes cosas",
+			"language": "es"
+		},
+		{
+			"start": 2848.3199999999997,
+			"end": 2866.3199999999997,
+			"text": "Respecto a eso, por ejemplo, yo lo he notado enseguida, una de las cosas que yo hacía, yo tenía mi cuenta de Twitter, yo hacía mis cosas, pero yo nunca las posteaba nada, porque... Que si yo posteaba algo en Twitter era como postear agua. Y... nada, simplemente fui esperando, fui esperando, fui esperando, y... pues eso, al cabo de.",
+			"language": "es"
+		},
+		{
+			"start": 2866.3199999999997,
+			"end": 2870.8500000000004,
+			"text": "ganando seguidores y hablando con gente, un día me dio por publicar algo",
+			"language": "es"
+		},
+		{
+			"start": 2870.91,
+			"end": 2888.91,
+			"text": "y que no sé si fue lo del COVID o no sé qué, y me habló un profesor universitario, gente de no sé dónde, uno que me decía, oye, yo puedo poner esto, entonces... Se percibe distinto dependiendo de quién seas en una escala social o cuántas personas te sigan o.",
+			"language": "es"
+		},
+		{
+			"start": 2888.91,
+			"end": 2897.67,
+			"text": "Yo soy consciente de que hay una cantidad de personas clave que si me apoyan con un retweet simplemente, yo ya gano popularidad",
+			"language": "es"
+		},
+		{
+			"start": 2897.79,
+			"end": 2900.76,
+			"text": "es muy distinto en",
+			"language": "es"
+		},
+		{
+			"start": 2900.8500000000004,
+			"end": 2918.8500000000004,
+			"text": "¿Cómo emprender? Hacer proyectos de por ti, para ti. Un diseñador que quiere ser diseñador gráfico y rehace toda la marca de Coca-Cola o se inventa una marca, eso sí, igual desde programación. Pero quizás emprender en el sentido estricto que tenemos en España, como vivir de lo que has creado, es lo más fácil",
+			"language": "es"
+		},
+		{
+			"start": 2918.8500000000004,
+			"end": 2920.77,
+			"text": "Eso sí que ya es más complicado",
+			"language": "es"
+		},
+		{
+			"start": 2920.83,
+			"end": 2922.69,
+			"text": "Yo creo, yo creo",
+			"language": "es"
+		},
+		{
+			"start": 2922.9300000000003,
+			"end": 2927.04,
+			"text": "Y algo os voy a dar a la gente que esté pensando, hostia, ¿y cómo lo hago?",
+			"language": "es"
+		},
+		{
+			"start": 2927.37,
+			"end": 2945.37,
+			"text": "A mi personalmente, Twitch es una excusa perfecta para esto, para forzarte a estar concentrado un tiempo haciendo algo en específico y desarrollarte. Y aunque no hagas comunidad, aunque no te vea nadie, eso se va quedando en vídeo, lo puedes guardar, puedes crear proyectos, estás obligándote a no mirar el móvil. Yo desde que llevo aquí no he mirado el móvil",
+			"language": "es"
+		},
+		{
+			"start": 2945.37,
+			"end": 2954.6400000000003,
+			"text": "mirado el móvil, sabes? Es como que a mí personalmente el Twitch, aunque este mes no he hecho directo, porque tengo una teoría y la quiero validar",
+			"language": "es"
+		},
+		{
+			"start": 2955.7799999999997,
+			"end": 2970.48,
+			"text": "Creo que mejoro, tío. Mejoro porque creas portfolio, creas proyectos en GitLab o GitHub, te fuerzas a hacer cositas, te pones un horario, aumentas comunidad, haces contactos... Joder, yo lo haría al menos. Si volviese a cero.",
+			"language": "es"
+		},
+		{
+			"start": 2971.23,
+			"end": 2980.44,
+			"text": "Twitter, contando que creo proyectos, aunque cambies cada semana. ¿Qué más da? Tú empiézalos, hazlos, compártelos, y ya está, y vas a aumentar gente y contactos",
+			"language": "es"
+		},
+		{
+			"start": 2981.2200000000003,
+			"end": 2999.2200000000003,
+			"text": "Sí, sí, normalmente si dicen, mira, por aquí nos puntualizan algo, David dice, ojo, no te digo vivir de lo creado, digo, vale, ganar experiencia creando y demostrando. Por ello, yo hoy en día creo directamente en informática, desarrollo, que ya nada más salir de la universidad ya sería lo que tendrías que hacer",
+			"language": "es"
+		},
+		{
+			"start": 2999.2200000000003,
+			"end": 3017.2200000000003,
+			"text": "antes incluso que buscar algo de trabajo. Porque ya te va a dar... Ya te da una superioridad encima de todos los otros aspirantes a un trabajo que no lo tengan. Y yo creo que merece la pena. Es más, yo creo que salgas de la universidad sin tener algún tipo de portfolio... Sí. No lo veo bien",
+			"language": "es"
+		},
+		{
+			"start": 3017.2200000000003,
+			"end": 3023.67,
+			"text": "Los bootcamps de programación, hay donde sales de un bootcamp de seis meses con cinco proyectos",
+			"language": "es"
+		},
+		{
+			"start": 3023.8199999999997,
+			"end": 3024.7200000000003,
+			"text": "¿Sabes?",
+			"language": "es"
+		},
+		{
+			"start": 3025.11,
+			"end": 3036.33,
+			"text": "Entonces, que en la universidad salgas con una entrega de un trabajo final sobre cómo funciona una empresa, cómo funciona una tecnología, pero que luego no tengas ningún ejemplo real de cómo tú has implementado esa tecnología, me parece",
+			"language": "es"
+		},
+		{
+			"start": 3036.3900000000003,
+			"end": 3046.38,
+			"text": "Que no sea universitario, ojalá hubiese sido universitario, pero creo que suma más el hecho de probar, tener cositas",
+			"language": "es"
+		},
+		{
+			"start": 3046.41,
+			"end": 3054.33,
+			"text": "Sí, no, y sobre todo es eso, voy a ver qué me dicen, a mí me faltan fuerzas después de 8 horas de curros. Hombre, claro, a ver si tienes un.",
+			"language": "es"
+		},
+		{
+			"start": 3054.5699999999997,
+			"end": 3069.99,
+			"text": "conseguir un trabajo, tener un trabajo y alguna de estas cosas también, pero porque sí que hay muchas cosas. Es que la cosa es que todo lo que piden las empresas tiene que saber de todo, se te cae el mundo. A ver, pero es que depende mucho. Las empresas que menos saben de desarrollo son las que más te piden",
+			"language": "es"
+		},
+		{
+			"start": 3070.29,
+			"end": 3077.58,
+			"text": "más stacks de tecnologías. Y las empresas que más saben de desarrollo o que están lideradas por personas técnicas te",
+			"language": "es"
+		},
+		{
+			"start": 3077.67,
+			"end": 3084.3,
+			"text": "te concentras las cosas y no sólo eso sino que no te hacen algo de que aprenda tiene que saber bueh",
+			"language": "es"
+		},
+		{
+			"start": 3084.3,
+			"end": 3092.4,
+			"text": "no JGs y redes neuronales. Que eso pasa mucho, que te mezclan unos stacks super locos",
+			"language": "es"
+		},
+		{
+			"start": 3092.7,
+			"end": 3105.3900000000003,
+			"text": "Eso en parte, pero he conocido otra parte de este problema. ¿Y por qué hay full stack? ¿Por qué se fomenta un perfil full stack en un proyecto donde el equipo es avanzado? Y es porque te cuesta obtener talento, tío",
+			"language": "es"
+		},
+		{
+			"start": 3105.87,
+			"end": 3118.3500000000004,
+			"text": "Hay empresas que les cuesta obtener talento, tienen dinero para contratar, pero la gente que están entrevistándonos no cumplen los requisitos. Y durante X tiempo, pues tus desarrolladores se están formando y se están desarrollando hacia una tecnología full stack",
+			"language": "es"
+		},
+		{
+			"start": 3118.44,
+			"end": 3123.9,
+			"text": "El chico que te ha dicho que se va a una empresa extranjera",
+			"language": "es"
+		},
+		{
+			"start": 3123.9,
+			"end": 3125.67,
+			"text": "Bueno, entonces pronto",
+			"language": "es"
+		},
+		{
+			"start": 3125.67,
+			"end": 3132.3,
+			"text": "Sí, no, el chico que trabajaba conmigo en Omniatus. Ah, vale, vale. Había estudiado una ingeniería",
+			"language": "es"
+		},
+		{
+			"start": 3132.3,
+			"end": 3135.75,
+			"text": "se había desarrollado hacia el frontend, para mí el mejor front",
+			"language": "es"
+		},
+		{
+			"start": 3135.75,
+			"end": 3139.26,
+			"text": "persona one to one me he conocido",
+			"language": "es"
+		},
+		{
+			"start": 3139.29,
+			"end": 3144.96,
+			"text": "en el trabajo desarrolló un interés por el bug y quiso ser full stack porque no encontraban más gente?",
+			"language": "es"
+		},
+		{
+			"start": 3144.99,
+			"end": 3147.12,
+			"text": "y después ha ido como bobac",
+			"language": "es"
+		},
+		{
+			"start": 3147.12,
+			"end": 3150.9,
+			"text": "O sea, para que veas cómo ha ido, cómo ha sido la cosa. O se va como full stack, no lo sé. Algo de eso",
+			"language": "es"
+		},
+		{
+			"start": 3151.11,
+			"end": 3169.08,
+			"text": "No, suele pasar. Pero es como otro contexto que puede llegar a existir. Es cierto que te contacte... Joselito vende webs. Porque tenemos que hacer webs para hoteles. Y necesito que tú me hagas el diseño en Photoshop, me lo pases a maquetación, me hagas el frontend que funcione y además el backend",
+			"language": "es"
+		},
+		{
+			"start": 3169.5,
+			"end": 3171.9,
+			"text": "por 18k. O sea",
+			"language": "es"
+		},
+		{
+			"start": 3172.23,
+			"end": 3186.48,
+			"text": "Ya, mira por aquí dicen, un punto interesante el que plantea Jose Igual me pongo a hacer streams para probar A ver, yo a todo el mundo que quiera empezar a hacer streams o tal Yo le diría que si empiezas de base cero va a ser bastante complicado",
+			"language": "es"
+		},
+		{
+			"start": 3186.48,
+			"end": 3194.7,
+			"text": "Que asuman que no les va a ver nadie. Que va a tener un modo 2. Que eso lo asuman. Y te cansas de que no te vea nadie",
+			"language": "es"
+		},
+		{
+			"start": 3195,
+			"end": 3212.94,
+			"text": "Si, porque no tienes flujo de chat, no tienes nada. Yo por ejemplo, ya lo he explicado muchas veces, pero yo empecé a streamear pues porque tenía el tiempo, estaba programando cosas por suerte y me daba igual hacerlo yo solo que en abierto. Y empecé así, pero es que literal, estuve un mes o dos que tenía tres",
+			"language": "es"
+		},
+		{
+			"start": 3213.06,
+			"end": 3231.06,
+			"text": "cuatro personas pero en plan a lo loco, ¿eh? Decir, wow, qué pasada, cinco personas. Y eso pasa en cualquier ámbito social que quieras intentar crecer, YouTube, por ejemplo. ¿Cuántas visitas tenían tus primeros vídeos? Y de hace cuántos años. Soy el caso distinto, soy la excepción. Yo no es que nadie",
+			"language": "es"
+		},
+		{
+			"start": 3231.06,
+			"end": 3244.2,
+			"text": "nacido, pues no soy la persona que tiene un talento y de repente despega, sino que fui creativo a la hora de que gente que yo quería me retuitease, compartiese mi contenido y de esta manera tener un pico de visualizaciones que se mantuvo en el tiempo",
+			"language": "es"
+		},
+		{
+			"start": 3244.41,
+			"end": 3262.41,
+			"text": "Entonces yo en mi primer vídeo lo retuiteó Romuald Fons, en aquel entonces él tenía 10k de suscriptores, en Twitter debería tener 8k de seguidores, y lo compartí y le dio bomba. Entonces yo me puse mi primer vídeo, creo que pilló 1200 visitas. Que hoy en día, empiezas sin que te conozca nadie y te vas a comer 50 visitas, como mucho, ¿sabes? Sí. Entonces, ¿qué?",
+			"language": "es"
+		},
+		{
+			"start": 3262.41,
+			"end": 3280.41,
+			"text": "Entonces, igual que en Twitch, yo en Twitch lo hice porque me quería preparar para cambiar de trabajo. O sea, Twitch mi excusa era, voy a hacer Twitch programando porque así voy aprendiendo para poder enfrentar pruebas de código, ¿sabes? Ese era mi objetivo con Twitch. Entonces, yo cuando empecé a hacer Twitch únicamente Twitch,",
+			"language": "es"
+		},
+		{
+			"start": 3280.41,
+			"end": 3285.45,
+			"text": "en Twitter y tengo lo suficientes seguidores en Twitter como para que se metan",
+			"language": "es"
+		},
+		{
+			"start": 3285.48,
+			"end": 3303.48,
+			"text": "lo mismo que ahora, 70-80 personas, ¿sabes? Entonces, es un contexto muy distinto, empezar es complicado, obviamente. No, sí, sí, sí, sí, por eso yo, si alguien quiere empezar, y sobre todo con código, que se ponga.",
+			"language": "es"
+		},
+		{
+			"start": 3303.48,
+			"end": 3316.1400000000003,
+			"text": "Bueno, no. Tu crecimiento no va a ser más lento, va a ser un poco más superior que algunos otros crecimientos, y lo digo porque tengo un amigo que está jugando a Valorant desde la beta y sigue con una o dos personas",
+			"language": "es"
+		},
+		{
+			"start": 3316.5299999999997,
+			"end": 3334.5299999999997,
+			"text": "tu crecimiento va a ser más rápido que según qué categorías pero vas a llegar a un techo mucho más rápido porque esta no es una plataforma de código esta es una plataforma de otra cosa es más, para mí el techo en programaciones es el que tienes tú ahora no he visto gente de España claro, en español, en castellano, que estemos en Twitch, si",
+			"language": "es"
+		},
+		{
+			"start": 3334.5299999999997,
+			"end": 3338.2200000000003,
+			"text": "Hay estos interesados. No hay más",
+			"language": "es"
+		},
+		{
+			"start": 3338.46,
+			"end": 3344.9700000000003,
+			"text": "Probablemente que personas que les interesa más el código, sí, pero no hay canales a los que yo pueda llegar",
+			"language": "es"
+		},
+		{
+			"start": 3345.12,
+			"end": 3351.33,
+			"text": "No.",
+			"language": "es"
+		},
+		{
+			"start": 3351.63,
+			"end": 3365.34,
+			"text": "y Twitch tuviese una sección de programación con canales de mil visitas que les permitiese estar streameando, ¿sabes? El problema es que va a tardar, yo creo que va a llegar, que va a tardar. Esto existía una plataforma antes, existía una plataforma antes que se llamaba LiveCoding",
+			"language": "es"
+		},
+		{
+			"start": 3365.4,
+			"end": 3383.4,
+			"text": "que a mí me pagaba por streamear y pagaba bastante más que al resto incluso... y después la pasaron a pago y ya cuando la pasaron a pago pues.",
+			"language": "es"
+		},
+		{
+			"start": 3383.4,
+			"end": 3391.92,
+			"text": "nadie de esa época me sigue hoy y a lo mejor pues no sé tenía 120 personas o algo así pero claro era una plataforma de código",
+			"language": "es"
+		},
+		{
+			"start": 3392.2200000000003,
+			"end": 3410.2200000000003,
+			"text": "Era otro contexto muy distinto y aún así, teniendo en cuenta eso, no es que el techo fuera el más top, ¿sabes? Entonces sí que hay un techo fijado incluso por idioma. Bueno, aquí por idioma... bueno, aquí también hay trampas. En los desarrolladores de habla inglesa",
+			"language": "es"
+		},
+		{
+			"start": 3410.2200000000003,
+			"end": 3428.2200000000003,
+			"text": "anglosajona también hay un poco de... Yo creo que el idioma no es un impedimento. Mira otros sectores. Mira, yo pensaba que España no iba a llegar tan lejos como Estados Unidos en tema de contenido, por ejemplo, de gaming o blogging. Mira Rubius. Que Rubius tiene más visitas o casi las mismas visitas que la gente de Estados Unidos y en Estados Unidos son 10 o 15 veces más",
+			"language": "es"
+		},
+		{
+			"start": 3428.2200000000003,
+			"end": 3446.2200000000003,
+			"text": "15 veces España. Bueno, es que también te digo, el mercado hispanohablante comparado al mercado inglés debe estar muy equilibrado, es cierto eso, pero... en cantidad. Pero no sé, me parece que hay un montón... Yo creo que es más de que la gente no sabe que aquí se hace esto y no sabe que le va a gustar verlo. No lo sabes. Eso no lo saben aún, cuando lo sepan ya lo saben",
+			"language": "es"
+		},
+		{
+			"start": 3446.2200000000003,
+			"end": 3450.9,
+			"text": "creo que va a ir subiendo. Ahora ha salido una plataforma que se llama IndieLogs",
+			"language": "es"
+		},
+		{
+			"start": 3451.26,
+			"end": 3457.41,
+			"text": "IndieLogs. IndieLogs, que es gente desarrolladora que lo que hace es como un YouTube",
+			"language": "es"
+		},
+		{
+			"start": 3457.86,
+			"end": 3461.0699999999997,
+			"text": "pero tú pones un proyecto y vas",
+			"language": "es"
+		},
+		{
+			"start": 3461.13,
+			"end": 3465.6000000000004,
+			"text": "publicando vídeos de cómo avanzando este proyecto",
+			"language": "es"
+		},
+		{
+			"start": 3465.75,
+			"end": 3472.83,
+			"text": "¿sabes? y está bastante bien y lo han lanzado en Estados Unidos y me ha gustado un montón la idea y ves que está pillando un poco de tracción y cada vez.",
+			"language": "es"
+		},
+		{
+			"start": 3472.92,
+			"end": 3483.81,
+			"text": "Ya no es como antes, que no te lo veía ni Dios. Ahora hay gente registrada, hay gente que sube vídeos. Veo que hay un interés hacia la programación mucho más, que dentro de 10 años va a haber un montón de programadores. Dentro de 15 va a estar petao, entonces",
+			"language": "es"
+		},
+		{
+			"start": 3484.23,
+			"end": 3501,
+			"text": "O sea, tenemos una oportunidad para hacer las cosas, para estar aquí y hacer las bases. Mira, también hay algo por ejemplo que dicen por ahí interesante, Rolldeer dice ¿Ahora mismo Rollplay triplica a cualquier streamer top de Estados Unidos? ¿Solo puede competir cuando hace más de 8 horas 10 días? Claro, pero",
+			"language": "es"
+		},
+		{
+			"start": 3501.54,
+			"end": 3505.05,
+			"text": "Ahí entramos en una cosa y es el tema de",
+			"language": "es"
+		},
+		{
+			"start": 3505.08,
+			"end": 3505.6800000000003,
+			"text": "¡Gracias!",
+			"language": "es"
+		},
+		{
+			"start": 3505.98,
+			"end": 3519.7799999999997,
+			"text": "Puedo decir que de no sé cuántas personas tendrá ahora mismo Auronplay, el porcentaje de las personas que tiene Auronplay interesadas en lo que yo pueda hacer o lo que la comunidad de código pueda hacer es absolutamente tan ínfima",
+			"language": "es"
+		},
+		{
+			"start": 3520.05,
+			"end": 3533.4,
+			"text": "que es que no es relevante, pero bueno, claro, es decir, obviamente después aquí hay distintas cosas y distintas audiencias y eso lo que deja en claro es de qué va esta plataforma",
+			"language": "es"
+		},
+		{
+			"start": 3533.49,
+			"end": 3551.49,
+			"text": "Es que a Auron lo pueden estar viendo en una placita, cuatro chavales, con los móviles. A ver programación no lo van a hacer. No, no, no, no. Pero sobre todo queda muy claro eso, es decir, esta plataforma, qué es, para quién es, cómo ha crecido, con quién está construida... Que eso también hay que tenerlo en cuenta. Claro, claro, claro. No me extrañaría nada",
+			"language": "es"
+		},
+		{
+			"start": 3551.49,
+			"end": 3569.01,
+			"text": "que si te lees todo el pliego de condiciones que tiene Twitch, a lo mejor existe un... no lo existe porque hay una categoría de ciencia y tecnología, pero a lo mejor antes te podían banear si hacías código, cosas así. Porque las condiciones de Twitch son muy bestias, es decir, puede haber existido ese caso. No lo sé, no lo sé",
+			"language": "es"
+		},
+		{
+			"start": 3569.01,
+			"end": 3577.05,
+			"text": "100.000 tiene Europlay, sí. No sé si voy a colgar porque tengo que prepararme, que a lo mejor luego abro directo, no sé si lo abriré. Pero bueno, que hayas cogido las bocetas",
+			"language": "es"
+		},
+		{
+			"start": 3577.3199999999997,
+			"end": 3582.48,
+			"text": "Y nada, muchas gracias por esta charla, esto hay que hacerlo más con más gente, mola mucho. Sí, hay alguna.",
+			"language": "es"
+		},
+		{
+			"start": 3582.48,
+			"end": 3599.94,
+			"text": "Es que yo no... yo como estoy más desconectado porque cuando no estoy aquí solo estoy programando. Tengo poco tiempo para ver Twitch así que no tengo el de esto pero sí, sí, sí, sí que estaría guay. Yo me encanta. Yo esto si no lo haces tú te lo voy a copiar y haré yo también. Te invitaré para que hables conmigo y.",
+			"language": "es"
+		},
+		{
+			"start": 3599.94,
+			"end": 3604.11,
+			"text": "Yo creo que personas, gente del chat, por ejemplo, que esté en un puesto",
+			"language": "es"
+		},
+		{
+			"start": 3604.29,
+			"end": 3619.08,
+			"text": "grande que entre y hable y le preguntamos. Yo creo que puede ser interesante. David Park, que está por ahí en Voicemot y todas estas cosas. O incluso meter a estudiantes aquí y hacerle y que nos pregunten cosas o preguntarle a nosotros. Yo creo que ese tipo de idea puede estar bueno. Por cierto, esperan cosas de tu grupo de maquillaje, dicen",
+			"language": "es"
+		},
+		{
+			"start": 3619.44,
+			"end": 3620.07,
+			"text": "¡Adiós!",
+			"language": "es"
+		},
+		{
+			"start": 3620.16,
+			"end": 3638.16,
+			"text": "¿Cuántos tienes ahora? ¿Podemos saber el número actual o no? Te lo pido. He parado las campañas, eh. Bueno, han entrado 7 personas más. Para quien no lo sepa, se propuso crear una comunidad en Telegram. Hay un vídeo en Youtube que lo tiene él por ahí",
+			"language": "es"
+		},
+		{
+			"start": 3638.16,
+			"end": 3651.87,
+			"text": "Era un proyecto de... 120 hay ahora. 120 sin campaña, en las he parado 6 horas, cuando vi 80. Intentó llenar un grupo de Telegram de gente y creo que... bueno, realmente no fueron 24 horas, fueron menos. Desde que te empezó a correr todo y tal fueron 17 o 10",
+			"language": "es"
+		},
+		{
+			"start": 3652.05,
+			"end": 3660.57,
+			"text": "Tiene 120 personas. ¿Alguna influencer? Sin comentarlo en mis comunidades, en plan, con un anuncio de Facebook súper cutre. Claro, claro, claro",
+			"language": "es"
+		},
+		{
+			"start": 3660.9,
+			"end": 3665.34,
+			"text": "Veremos, veremos cómo queda. Eso es interesante. ¿Yo te he contado que yo antes vendía grupos de Telegram?",
+			"language": "es"
+		},
+		{
+			"start": 3665.76,
+			"end": 3683.76,
+			"text": "No jodas. Yo sabes lo que hacía antes? Antes los pagaba muy bien y yo lo que hacía era que... voy a explicar esto a todo el mundo otra vez más, pero yo tenía un bot... Cuéntame secretos de cómo pillar pendiables. Esto es muy antiguo, tengo un post en Forocoches que lo explica. Yo utilizaba tools for Instagram, ¿vale? Entonces lo que hacía era que iba a una mochila",
+			"language": "es"
+		},
+		{
+			"start": 3683.76,
+			"end": 3701.76,
+			"text": "modelo a la que más top tenía, más seguidores, más de todo tenía y hacía lo siguiente, le pasaba por google azure las últimas fotos, las últimas nueve fotos que tenía, intentaba detectar si había una cara y si siempre era ella, es decir que el contenido que subía principalmente era de ella",
+			"language": "es"
+		},
+		{
+			"start": 3701.76,
+			"end": 3719.76,
+			"text": "era ella y la belleza objetiva que se puede calcular muy fácil con el de esto y después cuando ya tenía eso fijado le daba al bot en teoría que no es quien le hiciera clic pero le daba clic a la sección de recomendados y entraba en todas las cuentas y repetía este proceso. Al final tenía una base de datos",
+			"language": "es"
+		},
+		{
+			"start": 3719.76,
+			"end": 3737.76,
+			"text": "de 1200 cuentas de modelos o... no perdón, 1200 no, me estoy quedando corto, de 10.000 y pico modelos y lo que te ofrecía el grupo de telegram es que tú entrabas y cada vez que una modelo colgaba una foto automáticamente salía en el grupo y eran fotos de 10.000 cuentas para ti",
+			"language": "es"
+		},
+		{
+			"start": 3737.76,
+			"end": 3747,
+			"text": "a lo mejor eran cada rato y multiplique el grupo por hice cuántas versiones cuántas fotos",
+			"language": "es"
+		},
+		{
+			"start": 3747.48,
+			"end": 3750.39,
+			"text": "Hice.",
+			"language": "es"
+		},
+		{
+			"start": 3750.51,
+			"end": 3761.34,
+			"text": "No sé si dice intenté hacer crecer 400 o 500 grupos y cuando llegasen a 5000 en ese momento había un ruso que me los pagaba por 50 euros",
+			"language": "es"
+		},
+		{
+			"start": 3761.34,
+			"end": 3779.34,
+			"text": "cojones no no sé cuántos llega a acerquecer pero de hecho hay un post en forocoches está absolutamente detallado todo lo que hacía como la idea y está explicado por ahí luego pasamelo tío si lo pasaré se llamaba insta hotel bot intenté replicar lo mismo con cuentas de ingeniería con cuentas de gas",
+			"language": "es"
+		},
+		{
+			"start": 3779.34,
+			"end": 3787.2,
+			"text": "con cuentas de todo tipo. Lo que pasa que la selección de las cuentas ya era un poco más manual porque no tenía azure ni nada por el estilo",
+			"language": "es"
+		},
+		{
+			"start": 3787.5,
+			"end": 3805.5,
+			"text": "Es decir, tú lo que hacías, para resumirlo mucho, es guachear cuentas interesantes de fashion o cosmética, no, pero fashion, así chicas guapas y tal, y cada vez que esas chicas publicaron una publicación que no era paisaje, que era algo detectado, se compartía esa foto o la publicación",
+			"language": "es"
+		},
+		{
+			"start": 3805.5,
+			"end": 3810.2400000000002,
+			"text": "publicación en el grupo. No, se compartía la foto y el Instagram abajo",
+			"language": "es"
+		},
+		{
+			"start": 3811.14,
+			"end": 3812.37,
+			"text": "Está muy bueno eso",
+			"language": "es"
+		},
+		{
+			"start": 3812.7,
+			"end": 3815.58,
+			"text": "Ahora tienes canales de Telegram, ahora lo que haces son canales",
+			"language": "es"
+		},
+		{
+			"start": 3815.64,
+			"end": 3833.64,
+			"text": "Sí, claro, esa es la cosa, que yo lo que tenía era un grupo con un bot que eliminaba todos los mensajes de las otras personas De hecho el bot aún está abierto, es decir, el bot aún lo tengo por ahí, que sigue posteando, porque me da pena borrarlo, porque sigue por ahí Estas cosas son increíbles, tío Pero es una chorrada, es scrapear, es scrapearlo, de hecho es por una de las cosas que está ahí, tools for Instagram, ¿sabes?",
+			"language": "es"
+		},
+		{
+			"start": 3833.64,
+			"end": 3837,
+			"text": "está ahí por fin para hacer todo esto",
+			"language": "es"
+		},
+		{
+			"start": 3837,
+			"end": 3838.77,
+			"text": "Pero Tools for Instagram?",
+			"language": "es"
+		},
+		{
+			"start": 3839.28,
+			"end": 3848.19,
+			"text": "Tú no puedes meter un Watcher a una cuenta. ¿Cómo metes un Watcher a una cuenta? ¿Estándole, actualizándole cada minuto? No, yo lo que tengo es Valar Solutions. ¿Te he hablado alguna vez de Valar Solutions?",
+			"language": "es"
+		},
+		{
+			"start": 3848.37,
+			"end": 3853.56,
+			"text": "Vale, la solución son unos guiris que han comprado tubos de AT&T",
+			"language": "es"
+		},
+		{
+			"start": 3854.04,
+			"end": 3861.1800000000003,
+			"text": "y te ofrecen proxys rotativos. Y tienes un proxys rotativo que te lanza todo el rato hiperdis distintas por 2€ al mes",
+			"language": "es"
+		},
+		{
+			"start": 3862.56,
+			"end": 3863.4900000000002,
+			"text": "¡Ahh!",
+			"language": "es"
+		},
+		{
+			"start": 3863.7,
+			"end": 3864.57,
+			"text": "¡Bara!",
+			"language": "es"
+		},
+		{
+			"start": 3864.63,
+			"end": 3877.35,
+			"text": "Pero aún así, ¿estás lanzando peticiones todo el rato para ver si ha publicado algo? Claro, pero la IP es rotativa, es decir, siempre me va a dar una IP distinta al proxy. Entonces todo el rato son.",
+			"language": "es"
+		},
+		{
+			"start": 3877.5,
+			"end": 3884.82,
+			"text": "Ah, sí, sí, yo tengo un ciclo. Empiezo con la primera, pam, pam, pam, pam, pam, pam, pam, pam, pam, vuelvo a la primera y todo este ciclo",
+			"language": "es"
+		},
+		{
+			"start": 3885.87,
+			"end": 3903.87,
+			"text": "Sí, sí, no hay nada que sea un... Yo pensaba que a lo mejor tenías... No, no hay una pieza clave, no. Pero claro, es que la cosa es tener en cuenta que con 10.000 cuentas... Yo no puedo postear una foto nada más, me llega. Yo tengo que postear las fotos de un minuto. Y aún así, si yo ahora entro en esa cuenta.",
+			"language": "es"
+		},
+		{
+			"start": 3903.87,
+			"end": 3905.16,
+			"text": "ser colgadas",
+			"language": "es"
+		},
+		{
+			"start": 3905.4,
+			"end": 3906.09,
+			"text": "video",
+			"language": "es"
+		},
+		{
+			"start": 3906.09,
+			"end": 3914.79,
+			"text": "Claro, claro, claro. No puedes estar haciendo pa, pa, pa de fotos. Tiene que tener un delay.",
+			"language": "es"
+		},
+		{
+			"start": 3914.9700000000003,
+			"end": 3923.25,
+			"text": "tengo 3 gigas que siempre van a estar ahí, es decir, si le pongo un watcher pues lo más probable es que esos gigas sean más. Ya pues no es ni una mala idea esto",
+			"language": "es"
+		},
+		{
+			"start": 3923.25,
+			"end": 3926.67,
+			"text": "Esto es muy sencillo, muy muy muy sencillo de hacer",
+			"language": "es"
+		},
+		{
+			"start": 3927.06,
+			"end": 3944.67,
+			"text": "me gusta ya me la pongo a ver a los que no verá ser un vídeo mío te pondré los créditos gracias no te estorbo más gracias tío por dejarme hablar como siempre gracias a ti por pasarte por aquí",
+			"language": "es"
+		},
+		{
+			"start": 3944.7,
+			"end": 3953.82,
+			"text": "Gracias chicos a los del chat, gracias por las preguntas y la atención. Un besito para todos. Pillad un trabajo bien pagado, coño. Hasta luego, Gid. Gracias. Hasta luego, José",
+			"language": "es"
+		}
+	]
+}
